@@ -74,7 +74,7 @@ return {
 			nPower = 10,
 		},
 		[27408] = {
-			nClass = " |弓",
+			nClass = " |星",
 			tLevel = {
 				true,
 				[0] = true,
@@ -113,6 +113,30 @@ return {
 			},
 			nPower = 10,
 		},
+		[26944] = {
+			nClass = "变身",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27459] = {
+			nClass = "合神",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27409] = {
+			nClass = "烨|",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[27087] = {
 			nClass = "降疗",
 			tLevel = {
@@ -125,30 +149,6 @@ return {
 			nClass = "应天",
 			tLevel = {
 				true,
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[27409] = {
-			nClass = "流| ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[27459] = {
-			nClass = "变身",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[26944] = {
-			nClass = "变身",
-			tLevel = {
 				true,
 				[0] = true,
 			},
@@ -184,17 +184,17 @@ return {
 			nFont = 186,
 			bEnable = true,
 		},
-		["流| "] = {
-			bBorderEnable = true,
-			nFont = 205,
-			bFontEnable = true,
-			nBorder = 12,
-			bEnable = true,
-		},
 		["应天"] = {
 			bBorderEnable = true,
 			nBorder = 45,
 			bFontEnable = false,
+			bEnable = true,
+		},
+		["烨|"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 12,
 			bEnable = true,
 		},
 		["小马"] = {
@@ -202,6 +202,20 @@ return {
 			nBorder = 45,
 			bFontEnable = true,
 			nFont = 205,
+			bEnable = true,
+		},
+		["合神"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 256,
+			bEnable = true,
+		},
+		[" |星"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 12,
 			bEnable = true,
 		},
 		["反隐"] = {
@@ -218,18 +232,11 @@ return {
 			nBorder = 11,
 			bEnable = true,
 		},
-		[" |弓"] = {
+		["跑速"] = {
 			bBorderEnable = true,
-			nFont = 205,
+			nBorder = 11,
 			bFontEnable = true,
-			nBorder = 12,
-			bEnable = true,
-		},
-		["祝灵"] = {
-			bBorderEnable = true,
-			nFont = 159,
-			bFontEnable = true,
-			nBorder = 1,
+			nFont = 256,
 			bEnable = true,
 		},
 		["降疗"] = {
@@ -267,11 +274,11 @@ return {
 			nFont = 186,
 			bEnable = true,
 		},
-		["跑速"] = {
+		["祝灵"] = {
 			bBorderEnable = true,
-			nBorder = 11,
+			nFont = 159,
 			bFontEnable = true,
-			nFont = 256,
+			nBorder = 1,
 			bEnable = true,
 		},
 	},

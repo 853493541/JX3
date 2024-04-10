@@ -1,8 +1,10 @@
 return {
 	tBuff = {
-		[6262] = {
-			nClass = "无毫针",
+		[11808] = {
+			nClass = "望月",
 			tLevel = {
+				true,
+				true,
 				true,
 				[0] = true,
 			},
@@ -25,7 +27,49 @@ return {
 			},
 			nPower = 10,
 		},
-		[25859] = {
+		[711] = {
+			nClass = "兰摧",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[17015] = {
+			nClass = "15盾",
+			tLevel = {
+				false,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[9934] = {
+			nClass = "南风",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20814] = {
+			nClass = "阿甘",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26984] = {
+			nClass = "游斤",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6262] = {
 			nClass = "无毫针",
 			tLevel = {
 				true,
@@ -33,8 +77,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[25861] = {
-			nClass = "无毫针",
+		[20878] = {
+			nClass = "可上",
 			tLevel = {
 				true,
 				[0] = true,
@@ -63,6 +107,14 @@ return {
 			},
 			nPower = 10,
 		},
+		[20709] = {
+			nClass = "机甲",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[2719] = {
 			nClass = "乱撒",
 			tLevel = {
@@ -72,27 +124,9 @@ return {
 			},
 			nPower = 10,
 		},
-		[20709] = {
-			nClass = "机甲",
+		[25859] = {
+			nClass = "无毫针",
 			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20878] = {
-			nClass = "可上",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[11808] = {
-			nClass = "望月",
-			tLevel = {
-				true,
-				true,
 				true,
 				[0] = true,
 			},
@@ -106,24 +140,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[25858] = {
+		[25861] = {
 			nClass = "无毫针",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[26984] = {
-			nClass = "游斤",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[25862] = {
-			nClass = "如馥|外",
 			tLevel = {
 				true,
 				[0] = true,
@@ -138,10 +156,17 @@ return {
 			},
 			nPower = 10,
 		},
-		[20814] = {
-			nClass = "阿甘",
+		[25862] = {
+			nClass = "如馥|外",
 			tLevel = {
 				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[25858] = {
+			nClass = "无毫针",
+			tLevel = {
 				true,
 				[0] = true,
 			},
@@ -163,6 +188,13 @@ return {
 			nBorder = 45,
 			bEnable = true,
 		},
+		["兰摧"] = {
+			bBorderEnable = true,
+			nFont = 256,
+			bFontEnable = true,
+			nBorder = 11,
+			bEnable = true,
+		},
 		["阿甘"] = {
 			bBorderEnable = true,
 			nBorder = 45,
@@ -182,6 +214,20 @@ return {
 			nFont = 186,
 			bFontEnable = true,
 			nBorder = 10,
+			bEnable = true,
+		},
+		["15盾"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["南风"] = {
+			bBorderEnable = true,
+			nFont = 40,
+			bFontEnable = true,
+			nBorder = 45,
 			bEnable = true,
 		},
 		["机甲"] = {

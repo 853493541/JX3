@@ -1,8 +1,9 @@
 return {
 	tBuff = {
-		[1094] = {
-			nClass = "化焉",
+		[2983] = {
+			nClass = "无我",
 			tLevel = {
+				true,
 				true,
 				[0] = true,
 			},
@@ -19,8 +20,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[134] = {
-			nClass = "砍崽",
+		[1094] = {
+			nClass = "化焉",
 			tLevel = {
 				true,
 				[0] = true,
@@ -56,14 +57,6 @@ return {
 			},
 			nPower = 10,
 		},
-		[1091] = {
-			nClass = "玄剑",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
 		[24450] = {
 			nClass = "禁锢",
 			tLevel = {
@@ -72,10 +65,9 @@ return {
 			},
 			nPower = 10,
 		},
-		[2983] = {
-			nClass = "无我",
+		[134] = {
+			nClass = "砍崽",
 			tLevel = {
-				true,
 				true,
 				[0] = true,
 			},
@@ -96,11 +88,11 @@ return {
 			bFontEnable = true,
 			bEnable = true,
 		},
-		["玄剑"] = {
-			bBorderEnable = false,
-			nFont = 2,
+		["化焉"] = {
+			bBorderEnable = true,
+			nFont = 17,
 			bFontEnable = true,
-			nBorder = 7,
+			nBorder = 1,
 			bEnable = true,
 		},
 		["砍崽"] = {
@@ -108,13 +100,6 @@ return {
 			nFont = 159,
 			bFontEnable = true,
 			nBorder = 1,
-			bEnable = true,
-		},
-		["化生"] = {
-			bBorderEnable = true,
-			nBorder = 1,
-			bFontEnable = true,
-			nFont = 17,
 			bEnable = true,
 		},
 		["紫气"] = {
@@ -131,11 +116,11 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["化焉"] = {
+		["化生"] = {
 			bBorderEnable = true,
-			nFont = 17,
-			bFontEnable = true,
 			nBorder = 1,
+			bFontEnable = true,
+			nFont = 17,
 			bEnable = true,
 		},
 	},

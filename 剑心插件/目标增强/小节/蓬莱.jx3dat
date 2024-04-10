@@ -64,6 +64,14 @@ return {
 			},
 			nPower = 10,
 		},
+		[14540] = {
+			nClass = "³ÅÉ¡",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[22668] = {
 			nClass = "¾ª³±",
 			tLevel = {
@@ -72,16 +80,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[14082] = {
-			nClass = "³ËÁú",
+		[24232] = {
+			nClass = "Å­Òí",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[14540] = {
-			nClass = "³ÅÉ¡",
+		[14082] = {
+			nClass = "³ËÁú",
 			tLevel = {
 				true,
 				[0] = true,
@@ -129,6 +137,13 @@ return {
 			nFont = 186,
 			bFontEnable = true,
 			nBorder = 13,
+			bEnable = true,
+		},
+		["Å­Òí"] = {
+			bBorderEnable = true,
+			nFont = 256,
+			bFontEnable = true,
+			nBorder = 11,
 			bEnable = true,
 		},
 		["½ûÌø"] = {

@@ -64,8 +64,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[14540] = {
-			nClass = "≥≈…°",
+		[14082] = {
+			nClass = "≥À¡˙",
 			tLevel = {
 				true,
 				[0] = true,
@@ -88,8 +88,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[14082] = {
-			nClass = "≥À¡˙",
+		[14540] = {
+			nClass = "≥≈…°",
 			tLevel = {
 				true,
 				[0] = true,
@@ -162,7 +162,7 @@ return {
 		},
 		["''¿Ωœ¢''"] = {
 			bBorderEnable = true,
-			nFont = 159,
+			nFont = 17,
 			bFontEnable = true,
 			nBorder = 1,
 			bEnable = true,

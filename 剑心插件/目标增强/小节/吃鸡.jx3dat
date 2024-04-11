@@ -17,8 +17,24 @@ return {
 			},
 			nPower = 10,
 		},
+		[26438] = {
+			nClass = "免毒",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[14630] = {
-			nClass = "月影沙",
+			nClass = "月影",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[21088] = {
+			nClass = "红",
 			tLevel = {
 				true,
 				[0] = true,
@@ -34,7 +50,7 @@ return {
 			nPower = 10,
 		},
 		[14623] = {
-			nClass = "月影沙",
+			nClass = "月影",
 			tLevel = {
 				true,
 				[0] = true,
@@ -42,7 +58,7 @@ return {
 			nPower = 10,
 		},
 		[14631] = {
-			nClass = "月影沙",
+			nClass = "月影",
 			tLevel = {
 				true,
 				[0] = true,
@@ -57,8 +73,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[21410] = {
-			nClass = "大象",
+		[21124] = {
+			nClass = "风筝",
 			tLevel = {
 				true,
 				[0] = true,
@@ -81,8 +97,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[21188] = {
-			nClass = "灼热",
+		[12742] = {
+			nClass = "飞机",
 			tLevel = {
 				true,
 				[0] = true,
@@ -97,6 +113,14 @@ return {
 			},
 			nPower = 10,
 		},
+		[12734] = {
+			nClass = "持续",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[15191] = {
 			nClass = "箱子",
 			tLevel = {
@@ -105,19 +129,11 @@ return {
 			},
 			nPower = 10,
 		},
-		[12742] = {
-			nClass = "飞机",
+		[21172] = {
+			nClass = "点燃",
 			tLevel = {
 				true,
 				[0] = true,
-			},
-			nPower = 10,
-		},
-		[21181] = {
-			nClass = "失温",
-			tLevel = {
-				[0] = false,
-				[2] = true,
 			},
 			nPower = 10,
 		},
@@ -159,16 +175,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[18496] = {
-			nClass = "易伤",
+		[21410] = {
+			nClass = "大象",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[21170] = {
-			nClass = "红拾",
+		[21087] = {
+			nClass = "蓝",
 			tLevel = {
 				true,
 				[0] = true,
@@ -191,6 +207,14 @@ return {
 			},
 			nPower = 10,
 		},
+		[21170] = {
+			nClass = "红拾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[18452] = {
 			nClass = "箱子",
 			tLevel = {
@@ -199,27 +223,19 @@ return {
 			},
 			nPower = 10,
 		},
-		[21087] = {
-			nClass = "蓝",
+		[18496] = {
+			nClass = "易伤",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[21172] = {
-			nClass = "点燃",
+		[21181] = {
+			nClass = "失温",
 			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[21088] = {
-			nClass = "红",
-			tLevel = {
-				true,
-				[0] = true,
+				[0] = false,
+				[2] = true,
 			},
 			nPower = 10,
 		},
@@ -231,8 +247,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[21124] = {
-			nClass = "风筝",
+		[21188] = {
+			nClass = "灼热",
 			tLevel = {
 				true,
 				[0] = true,
@@ -251,6 +267,13 @@ return {
 		["红拾"] = {
 			bBorderEnable = true,
 			nBorder = 1,
+			bEnable = true,
+		},
+		["月影"] = {
+			bBorderEnable = true,
+			nFont = 245,
+			bFontEnable = true,
+			nBorder = 45,
 			bEnable = true,
 		},
 		["飞机"] = {
@@ -302,6 +325,13 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
+		["持续"] = {
+			bBorderEnable = true,
+			nFont = 256,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
 		["准备"] = {
 			bBorderEnable = true,
 			nFont = 159,
@@ -329,6 +359,13 @@ return {
 			nBorder = 45,
 			bEnable = true,
 		},
+		["免毒"] = {
+			bBorderEnable = true,
+			nFont = 23,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
 		["易伤"] = {
 			bBorderEnable = true,
 			nFont = 159,
@@ -341,13 +378,6 @@ return {
 			nFont = 187,
 			bFontEnable = true,
 			nBorder = 61,
-			bEnable = true,
-		},
-		["月影沙"] = {
-			bBorderEnable = true,
-			nBorder = 45,
-			bFontEnable = true,
-			nFont = 245,
 			bEnable = true,
 		},
 		["烟"] = {

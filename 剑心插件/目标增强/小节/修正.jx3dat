@@ -53,9 +53,18 @@ return {
 			},
 			nPower = 10,
 		},
-		[22924] = {
+		[2807] = {
+			nClass = "·âÄÚ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10465] = {
 			nClass = "",
 			tLevel = {
+				true,
 				true,
 				[0] = true,
 			},
@@ -69,7 +78,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[10617] = {
+		[23047] = {
 			nClass = "",
 			tLevel = {
 				true,
@@ -110,7 +119,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[2797] = {
+		[7171] = {
 			nClass = "",
 			tLevel = {
 				true,
@@ -135,7 +144,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[6113] = {
+		[6237] = {
 			nClass = "",
 			tLevel = {
 				true,
@@ -151,7 +160,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[6237] = {
+		[6113] = {
 			nClass = "",
 			tLevel = {
 				true,
@@ -159,7 +168,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[7171] = {
+		[2797] = {
 			nClass = "",
 			tLevel = {
 				true,
@@ -167,7 +176,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[23047] = {
+		[10617] = {
 			nClass = "",
 			tLevel = {
 				true,
@@ -175,16 +184,23 @@ return {
 			},
 			nPower = 10,
 		},
-		[10465] = {
+		[22924] = {
 			nClass = "",
 			tLevel = {
-				true,
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
 	},
-	tClass = {},
+	tClass = {
+		["·âÄÚ"] = {
+			bBorderEnable = true,
+			nFont = 235,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+	},
 	__dataKey = "BUFF_CUSTOM_DATA",
 }

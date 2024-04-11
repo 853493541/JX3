@@ -90,8 +90,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[10118] = {
-			nClass = "蚀心",
+		[9873] = {
+			nClass = "曳光",
 			tLevel = {
 				true,
 				[0] = true,
@@ -107,8 +107,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[24360] = {
-			nClass = "寂灭",
+		[27012] = {
+			nClass = "展缓",
 			tLevel = {
 				true,
 				[0] = true,
@@ -123,6 +123,14 @@ return {
 			},
 			nPower = 10,
 		},
+		[10118] = {
+			nClass = "蚀心",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[22731] = {
 			nClass = "百足",
 			tLevel = {
@@ -131,16 +139,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[27012] = {
-			nClass = "展缓",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[9873] = {
-			nClass = "曳光",
+		[24360] = {
+			nClass = "寂灭",
 			tLevel = {
 				true,
 				[0] = true,
@@ -215,7 +215,7 @@ return {
 			bBorderEnable = true,
 			nBorder = 1,
 			bFontEnable = true,
-			nFont = 159,
+			nFont = 17,
 			bEnable = true,
 		},
 		["\"狂暴\""] = {
@@ -225,10 +225,11 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["连缘"] = {
+		["展缓"] = {
 			bBorderEnable = true,
-			nBorder = 45,
+			nFont = 256,
 			bFontEnable = true,
+			nBorder = 11,
 			bEnable = true,
 		},
 		["掐蛇"] = {
@@ -238,25 +239,11 @@ return {
 			nFont = 256,
 			bEnable = true,
 		},
-		["\"蚀心''"] = {
-			bBorderEnable = true,
-			nFont = 17,
-			bFontEnable = true,
-			nBorder = 13,
-			bEnable = true,
-		},
-		["嗜蛊"] = {
+		["被毒手"] = {
 			bBorderEnable = true,
 			nBorder = 1,
 			bFontEnable = true,
 			nFont = 159,
-			bEnable = true,
-		},
-		["挂毒手"] = {
-			bBorderEnable = true,
-			nFont = 187,
-			bFontEnable = true,
-			nBorder = 45,
 			bEnable = true,
 		},
 		["曳光"] = {
@@ -266,18 +253,31 @@ return {
 			nBorder = 13,
 			bEnable = true,
 		},
-		["被毒手"] = {
+		["挂毒手"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["嗜蛊"] = {
 			bBorderEnable = true,
 			nBorder = 1,
 			bFontEnable = true,
 			nFont = 159,
 			bEnable = true,
 		},
-		["展缓"] = {
+		["\"蚀心''"] = {
 			bBorderEnable = true,
-			nFont = 256,
+			nFont = 17,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["连缘"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
 			bEnable = true,
 		},
 	},

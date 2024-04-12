@@ -1,19 +1,33 @@
 return {
 	tBuff = {
-		[134] = {
-			nClass = "¿³áÌ",
+		[24450] = {
+			nClass = "½ûïÀ",
+			tLevel = {
+				[0] = true,
+				[2] = true,
+			},
+			nPower = 10,
+		},
+		[384] = {
+			nClass = "×ª",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[17945] = {
+			nClass = "ÁèÔÆ",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[2757] = {
-			nClass = "×ÏÆø",
+		[134] = {
+			nClass = "¿³áÌ",
 			tLevel = {
-				true,
-				true,
-				true,
 				true,
 				[0] = true,
 			},
@@ -31,14 +45,6 @@ return {
 			nClass = "ÎÞÎÒ",
 			tLevel = {
 				true,
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[17945] = {
-			nClass = "ÁèÔÆ",
-			tLevel = {
 				true,
 				[0] = true,
 			},
@@ -65,17 +71,20 @@ return {
 			},
 			nPower = 10,
 		},
-		[24450] = {
-			nClass = "½ûïÀ",
-			tLevel = {
-				[0] = true,
-				[2] = true,
-			},
-			nPower = 10,
-		},
 		[9961] = {
 			nClass = "»¯ÑÉ",
 			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2757] = {
+			nClass = "×ÏÆø",
+			tLevel = {
+				true,
+				true,
+				true,
 				true,
 				[0] = true,
 			},
@@ -96,6 +105,19 @@ return {
 			bFontEnable = true,
 			bEnable = true,
 		},
+		["»¯ÑÉ"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["×ª"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
 		["»¯Éú"] = {
 			bBorderEnable = true,
 			nBorder = 1,
@@ -103,16 +125,9 @@ return {
 			nFont = 17,
 			bEnable = true,
 		},
-		["½ûïÀ"] = {
+		["¿³áÌ"] = {
 			bBorderEnable = true,
-			nFont = 205,
-			bFontEnable = true,
-			nBorder = 1,
-			bEnable = true,
-		},
-		["»¯ÑÉ"] = {
-			bBorderEnable = true,
-			nFont = 17,
+			nFont = 159,
 			bFontEnable = true,
 			nBorder = 1,
 			bEnable = true,
@@ -131,9 +146,9 @@ return {
 			nBorder = 9,
 			bEnable = true,
 		},
-		["¿³áÌ"] = {
+		["½ûïÀ"] = {
 			bBorderEnable = true,
-			nFont = 159,
+			nFont = 205,
 			bFontEnable = true,
 			nBorder = 1,
 			bEnable = true,

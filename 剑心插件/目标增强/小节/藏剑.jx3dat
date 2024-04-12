@@ -1,15 +1,7 @@
 return {
 	tBuff = {
-		[9704] = {
-			nClass = "比心",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20162] = {
-			nClass = "云",
+		[9848] = {
+			nClass = "探梅",
 			tLevel = {
 				true,
 				[0] = true,
@@ -59,16 +51,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[1676] = {
-			nClass = "玉泉",
+		[27197] = {
+			nClass = "格挡",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[6143] = {
-			nClass = "泉",
+		[9704] = {
+			nClass = "比心",
 			tLevel = {
 				true,
 				[0] = true,
@@ -77,6 +69,30 @@ return {
 		},
 		[24358] = {
 			nClass = "重创",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1676] = {
+			nClass = "玉泉",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[5668] = {
+			nClass = "风吹",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1856] = {
+			nClass = "风车",
 			tLevel = {
 				true,
 				[0] = true,
@@ -116,40 +132,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[25656] = {
-			nClass = "云",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[1856] = {
-			nClass = "风车",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[5668] = {
-			nClass = "风吹",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[27197] = {
-			nClass = "格挡",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[9848] = {
-			nClass = "探梅",
+		[6143] = {
+			nClass = "泉",
 			tLevel = {
 				true,
 				[0] = true,
@@ -179,11 +163,11 @@ return {
 			nFont = 187,
 			bEnable = true,
 		},
-		["格挡"] = {
+		["风车"] = {
 			bBorderEnable = true,
 			nFont = 187,
 			bFontEnable = true,
-			nBorder = 45,
+			nBorder = 61,
 			bEnable = true,
 		},
 		["云台"] = {
@@ -193,18 +177,18 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["风吹"] = {
+		["鸟叫"] = {
 			bBorderEnable = true,
-			nFont = 187,
+			nFont = 256,
 			bFontEnable = true,
-			nBorder = 45,
+			nBorder = 11,
 			bEnable = true,
 		},
-		["探梅"] = {
+		["脆皮"] = {
 			bBorderEnable = true,
-			nFont = 187,
+			nFont = 17,
 			bFontEnable = true,
-			nBorder = 10,
+			nBorder = 1,
 			bEnable = true,
 		},
 		["泉"] = {
@@ -214,11 +198,11 @@ return {
 			nBorder = 13,
 			bEnable = true,
 		},
-		["脆皮"] = {
+		["探梅"] = {
 			bBorderEnable = true,
-			nFont = 17,
+			nFont = 187,
 			bFontEnable = true,
-			nBorder = 1,
+			nBorder = 10,
 			bEnable = true,
 		},
 		["重创"] = {
@@ -235,18 +219,18 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["鸟叫"] = {
-			bBorderEnable = true,
-			nFont = 256,
-			bFontEnable = true,
-			nBorder = 11,
-			bEnable = true,
-		},
-		["风车"] = {
+		["风吹"] = {
 			bBorderEnable = true,
 			nFont = 187,
 			bFontEnable = true,
-			nBorder = 61,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["格挡"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
 			bEnable = true,
 		},
 	},

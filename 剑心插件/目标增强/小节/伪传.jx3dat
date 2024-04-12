@@ -1,447 +1,4 @@
 return {
-	tBuff = {
-		[20175] = {
-			nClass = "Î±½É",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22382] = {
-			nClass = "Î±±»¶¾",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22383] = {
-			nClass = "Î±¶¾ÊÖ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20181] = {
-			nClass = "Î±Èµ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20245] = {
-			nClass = "Î±·ç³µ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20247] = {
-			nClass = "Î±ÐÇÂ¥",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20248] = {
-			nClass = "Î±»Ã¹Æ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20375] = {
-			nClass = "±»×²",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[26865] = {
-			nClass = "Á¬Ãà½£",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20251] = {
-			nClass = "Î±±»Æ½",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20191] = {
-			nClass = "Î±µû",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22397] = {
-			nClass = "Î±ÎÞ¼ä",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20193] = {
-			nClass = "Î±ÌÝ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20257] = {
-			nClass = "Î±´ºÄà",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20259] = {
-			nClass = "Î±É¢",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[23968] = {
-			nClass = "½ûÇá",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22404] = {
-			nClass = "Î±²ÝÖÐ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20200] = {
-			nClass = "Î±»¢",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20250] = {
-			nClass = "Î±Æ½µ½",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[23982] = {
-			nClass = "Î±½É",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22377] = {
-			nClass = "Î±Õ¶",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22387] = {
-			nClass = "Î±·âÄÚ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20230] = {
-			nClass = "Î±¶ÜÁ¢",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22413] = {
-			nClass = "Î±ÁúÐ¥",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24010] = {
-			nClass = "ÐìÈç",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24051] = {
-			nClass = "Óùº£",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[23962] = {
-			nClass = "»¨Óï",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[23999] = {
-			nClass = "ÄýÑª",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24054] = {
-			nClass = "''»»¹ý''",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22468] = {
-			nClass = "Î±ÏÂ²Ý",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24064] = {
-			nClass = "Î±³ÁÄ¬",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22430] = {
-			nClass = "Î±ÂÌÒ°",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[23995] = {
-			nClass = "´ÅÊ¯",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22169] = {
-			nClass = "Î±¶Í¹Ç",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22170] = {
-			nClass = "Î±É½",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24067] = {
-			nClass = "×Ô±¬",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22172] = {
-			nClass = "Î±×ª",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24066] = {
-			nClass = "¶áÃü",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22174] = {
-			nClass = "Î±¾ªºè",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22301] = {
-			nClass = "Î±¼«ÀÖ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22302] = {
-			nClass = "Î±Ì¤",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20287] = {
-			nClass = "Î±¸¡¹â",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20288] = {
-			nClass = "Î±ÒÆ¶¯",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24069] = {
-			nClass = "Î±³ÁÄ¬",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22369] = {
-			nClass = "Î±ÐÄÚº",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24008] = {
-			nClass = "Î±³ÁÄ¬",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20355] = {
-			nClass = "Î±³µ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20293] = {
-			nClass = "Î±±ä",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[22386] = {
-			nClass = "Î±¹Ø",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20358] = {
-			nClass = "Î±¼ÓËÙ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20359] = {
-			nClass = "Î±ÎÞµÐ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20297] = {
-			nClass = "Î±Òþ",
-			tLevel = {
-				true,
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20298] = {
-			nClass = "Î±ÆÆÒþ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20194] = {
-			nClass = "Î±Ð¦",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20255] = {
-			nClass = "Î±Éá",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-	},
 	tClass = {
 		["Î±¾ªºè"] = {
 			bBorderEnable = true,
@@ -466,9 +23,9 @@ return {
 		},
 		["Î±Òþ"] = {
 			bBorderEnable = true,
-			nFont = 159,
+			nFont = 186,
 			bFontEnable = true,
-			nBorder = 10,
+			nBorder = 45,
 			bEnable = true,
 		},
 		["''»»¹ý''"] = {
@@ -506,6 +63,13 @@ return {
 			nBorder = 13,
 			bEnable = true,
 		},
+		["»¨Óï"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
 		["Î±Ð¦"] = {
 			bBorderEnable = true,
 			nFont = 187,
@@ -514,6 +78,20 @@ return {
 			bEnable = true,
 		},
 		["Î±ÐÇÂ¥"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["Î±³ÁÄ¬"] = {
+			bBorderEnable = true,
+			nFont = 235,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["Î±ÂÌÒ°"] = {
 			bBorderEnable = true,
 			nFont = 186,
 			bFontEnable = true,
@@ -575,6 +153,20 @@ return {
 			nBorder = 13,
 			bEnable = true,
 		},
+		["Á¬Ãà½£"] = {
+			bBorderEnable = true,
+			nFont = 23,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["Î±³µ"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
 		["Î±±»¶¾"] = {
 			bBorderEnable = true,
 			nFont = 159,
@@ -582,16 +174,9 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["Î±É½"] = {
+		["Î±±ä"] = {
 			bBorderEnable = true,
-			nFont = 187,
-			bFontEnable = true,
-			nBorder = 45,
-			bEnable = true,
-		},
-		["Î±¸¡¹â"] = {
-			bBorderEnable = true,
-			nFont = 187,
+			nFont = 186,
 			bFontEnable = true,
 			nBorder = 45,
 			bEnable = true,
@@ -603,11 +188,11 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["Î±±ä"] = {
+		["Î±¼ÓËÙ"] = {
 			bBorderEnable = true,
 			nFont = 186,
 			bFontEnable = true,
-			nBorder = 45,
+			nBorder = 10,
 			bEnable = true,
 		},
 		["Î±±»Æ½"] = {
@@ -638,11 +223,11 @@ return {
 			nBorder = 45,
 			bEnable = true,
 		},
-		["Î±³µ"] = {
+		["Î±ÉÏÌì"] = {
 			bBorderEnable = true,
 			nFont = 186,
 			bFontEnable = true,
-			nBorder = 13,
+			nBorder = 45,
 			bEnable = true,
 		},
 		["Óùº£"] = {
@@ -654,21 +239,21 @@ return {
 		},
 		["Î±·ç³µ"] = {
 			bBorderEnable = true,
-			nFont = 187,
+			nFont = 159,
 			bFontEnable = true,
 			nBorder = 45,
 			bEnable = true,
 		},
-		["Î±¼ÓËÙ"] = {
+		["Î±ÔÆ"] = {
 			bBorderEnable = true,
 			nFont = 186,
 			bFontEnable = true,
-			nBorder = 10,
+			nBorder = 45,
 			bEnable = true,
 		},
-		["×Ô±¬"] = {
+		["Î±¼«ÀÖ"] = {
 			bBorderEnable = true,
-			nFont = 256,
+			nFont = 159,
 			bFontEnable = true,
 			nBorder = 1,
 			bEnable = true,
@@ -680,11 +265,11 @@ return {
 			nBorder = 45,
 			bEnable = true,
 		},
-		["½ûÇá"] = {
+		["Î±Ì¤"] = {
 			bBorderEnable = true,
-			nFont = 235,
+			nBorder = 45,
 			bFontEnable = true,
-			nBorder = 1,
+			nFont = 159,
 			bEnable = true,
 		},
 		["Î±É¢"] = {
@@ -722,13 +307,6 @@ return {
 			nBorder = 13,
 			bEnable = true,
 		},
-		["Î±×ª"] = {
-			bBorderEnable = true,
-			nFont = 186,
-			bFontEnable = true,
-			nBorder = 13,
-			bEnable = true,
-		},
 		["Î±ÐÄÚº"] = {
 			bBorderEnable = true,
 			nBorder = 45,
@@ -736,7 +314,18 @@ return {
 			nFont = 159,
 			bEnable = true,
 		},
+		["Î±×ª"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
 		["Î±ÆÆÒþ"] = {
+			bBorderEnable = true,
+			nBorder = 10,
+			bFontEnable = true,
+			nFont = 159,
 			bEnable = true,
 		},
 		["Î±²ÝÖÐ"] = {
@@ -746,15 +335,16 @@ return {
 			nBorder = 9,
 			bEnable = true,
 		},
-		["Î±Ì¤"] = {
+		["½ûÇá"] = {
 			bBorderEnable = true,
-			nBorder = 45,
+			nFont = 235,
 			bFontEnable = true,
+			nBorder = 1,
 			bEnable = true,
 		},
-		["Î±¼«ÀÖ"] = {
+		["×Ô±¬"] = {
 			bBorderEnable = true,
-			nFont = 159,
+			nFont = 256,
 			bFontEnable = true,
 			nBorder = 1,
 			bEnable = true,
@@ -780,34 +370,524 @@ return {
 			nBorder = 45,
 			bEnable = true,
 		},
-		["Á¬Ãà½£"] = {
+		["Î±É½"] = {
 			bBorderEnable = true,
-			nFont = 23,
+			nFont = 187,
 			bFontEnable = true,
 			nBorder = 45,
 			bEnable = true,
 		},
-		["Î±ÂÌÒ°"] = {
+		["ÈçÒâ"] = {
 			bBorderEnable = true,
-			nFont = 186,
+			nFont = 226,
 			bFontEnable = true,
-			nBorder = 10,
+			nBorder = 45,
 			bEnable = true,
 		},
-		["Î±³ÁÄ¬"] = {
+		["Î±¸¡¹â"] = {
 			bBorderEnable = true,
-			nFont = 235,
+			nFont = 187,
 			bFontEnable = true,
-			nBorder = 1,
+			nBorder = 45,
 			bEnable = true,
 		},
-		["»¨Óï"] = {
+		["Î±¶Ü"] = {
 			bBorderEnable = true,
-			nBorder = 13,
+			nFont = 159,
 			bFontEnable = true,
-			nFont = 186,
+			nBorder = 45,
 			bEnable = true,
 		},
 	},
-	__dataKey = "BUFF_CUSTOM_DATA",
+	tBuff = {
+		[20175] = {
+			nClass = "Î±½É",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20239] = {
+			nClass = "",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22382] = {
+			nClass = "Î±±»¶¾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22383] = {
+			nClass = "Î±¶¾ÊÖ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20181] = {
+			nClass = "Î±Èµ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20245] = {
+			nClass = "Î±·ç³µ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20255] = {
+			nClass = "Î±Éá",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20247] = {
+			nClass = "Î±ÐÇÂ¥",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20248] = {
+			nClass = "Î±»Ã¹Æ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20375] = {
+			nClass = "±»×²",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20250] = {
+			nClass = "Î±Æ½µ½",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20251] = {
+			nClass = "Î±±»Æ½",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20194] = {
+			nClass = "Î±Ð¦",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20298] = {
+			nClass = "Î±ÆÆÒþ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20191] = {
+			nClass = "Î±µû",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22397] = {
+			nClass = "Î±ÎÞ¼ä",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20193] = {
+			nClass = "Î±ÌÝ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20257] = {
+			nClass = "Î±´ºÄà",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20297] = {
+			nClass = "Î±Òþ",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20259] = {
+			nClass = "Î±É¢",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20197] = {
+			nClass = "",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22386] = {
+			nClass = "Î±¹Ø",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22404] = {
+			nClass = "Î±²ÝÖÐ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20200] = {
+			nClass = "Î±»¢",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[4421] = {
+			nClass = "ÈçÒâ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[23982] = {
+			nClass = "Î±½É",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22282] = {
+			nClass = "Î±ÉÏÌì",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20293] = {
+			nClass = "Î±±ä",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24010] = {
+			nClass = "ÐìÈç",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24051] = {
+			nClass = "Óùº£",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[23962] = {
+			nClass = "»¨Óï",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22413] = {
+			nClass = "Î±ÁúÐ¥",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22468] = {
+			nClass = "Î±ÏÂ²Ý",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22430] = {
+			nClass = "Î±ÂÌÒ°",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24054] = {
+			nClass = "''»»¹ý''",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20288] = {
+			nClass = "Î±ÒÆ¶¯",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20287] = {
+			nClass = "Î±¸¡¹â",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22302] = {
+			nClass = "Î±Ì¤",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[23995] = {
+			nClass = "´ÅÊ¯",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22169] = {
+			nClass = "Î±¶Í¹Ç",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22170] = {
+			nClass = "Î±É½",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22172] = {
+			nClass = "Î±×ª",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[23999] = {
+			nClass = "ÄýÑª",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22174] = {
+			nClass = "Î±¾ªºè",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24064] = {
+			nClass = "Î±³ÁÄ¬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22301] = {
+			nClass = "Î±¼«ÀÖ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24066] = {
+			nClass = "¶áÃü",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24067] = {
+			nClass = "×Ô±¬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20162] = {
+			nClass = "Î±ÔÆ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24069] = {
+			nClass = "Î±³ÁÄ¬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22369] = {
+			nClass = "Î±ÐÄÚº",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24008] = {
+			nClass = "Î±³ÁÄ¬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20355] = {
+			nClass = "Î±³µ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20230] = {
+			nClass = "Î±¶ÜÁ¢",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22387] = {
+			nClass = "Î±·âÄÚ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20358] = {
+			nClass = "Î±¼ÓËÙ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20359] = {
+			nClass = "Î±ÎÞµÐ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22376] = {
+			nClass = "Î±¶Ü",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22377] = {
+			nClass = "Î±Õ¶",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26865] = {
+			nClass = "Á¬Ãà½£",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[23968] = {
+			nClass = "½ûÇá",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
 }

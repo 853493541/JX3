@@ -56,14 +56,6 @@ return {
 			},
 			nPower = 10,
 		},
-		[20259] = {
-			nClass = "散",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
 		[15098] = {
 			nClass = "可爆体",
 			tLevel = {
@@ -113,7 +105,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[24694] = {
+		[11077] = {
 			nClass = "霸体",
 			tLevel = {
 				true,
@@ -129,7 +121,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[11077] = {
+		[24694] = {
 			nClass = "霸体",
 			tLevel = {
 				true,
@@ -213,18 +205,18 @@ return {
 			nBorder = 10,
 			bEnable = true,
 		},
-		["寒衣"] = {
-			bBorderEnable = true,
-			nFont = 186,
-			bFontEnable = true,
-			nBorder = 45,
-			bEnable = true,
-		},
 		["爆体"] = {
 			bBorderEnable = true,
 			nFont = 205,
 			bFontEnable = true,
 			nBorder = 10,
+			bEnable = true,
+		},
+		["寒衣"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 45,
 			bEnable = true,
 		},
 	},

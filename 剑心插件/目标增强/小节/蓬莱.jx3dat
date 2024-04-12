@@ -1,13 +1,5 @@
 return {
 	tBuff = {
-		[22376] = {
-			nClass = "鸟盾",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
 		[13742] = {
 			nClass = "定波",
 			tLevel = {
@@ -18,6 +10,14 @@ return {
 		},
 		[13744] = {
 			nClass = "反击",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18173] = {
+			nClass = "被飞",
 			tLevel = {
 				true,
 				[0] = true,
@@ -171,6 +171,13 @@ return {
 			bBorderEnable = true,
 			nBorder = 45,
 			bFontEnable = false,
+			bEnable = true,
+		},
+		["被飞"] = {
+			bBorderEnable = true,
+			nFont = 256,
+			bFontEnable = true,
+			nBorder = 1,
 			bEnable = true,
 		},
 	},

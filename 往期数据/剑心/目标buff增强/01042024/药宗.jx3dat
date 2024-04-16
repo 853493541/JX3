@@ -1,0 +1,103 @@
+return {
+	tBuff = {
+		[20072] = {
+			nClass = "上天",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22282] = {
+			nClass = "上天",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20128] = {
+			nClass = "草中",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[21276] = {
+			nClass = "下草",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22404] = {
+			nClass = "草中",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22468] = {
+			nClass = "下草",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20075] = {
+			nClass = "千枝",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20074] = {
+			nClass = "没开",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["下草"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["草中"] = {
+			bBorderEnable = true,
+			nBorder = 9,
+			bEnable = true,
+		},
+		["上天"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			nFont = 187,
+			bEnable = true,
+		},
+		["没开"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["千枝"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

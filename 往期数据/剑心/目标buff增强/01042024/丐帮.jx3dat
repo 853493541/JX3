@@ -1,0 +1,88 @@
+return {
+	tBuff = {
+		[5994] = {
+			nClass = "Ô½Ô¨",
+			tLevel = {
+				false,
+				[0] = false,
+				[4] = true,
+			},
+			nPower = 10,
+		},
+		[5996] = {
+			nClass = "Ð¦×í",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[7118] = {
+			nClass = "ÓÐØü",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18084] = {
+			nClass = "¸ñµ²",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[5995] = {
+			nClass = "Ð¦×í",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[17077] = {
+			nClass = "ÓÐØü",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["ÓÐØü"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["Ô½Ô¨"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["Ð¦×í"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["¸ñµ²"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

@@ -1,0 +1,73 @@
+return {
+	tBuff = {
+		[8458] = {
+			nClass = "√‚∑‚",
+			tLevel = {
+				true,
+				false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[10618] = {
+			nClass = "√‚∑‚",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9999] = {
+			nClass = "√‚∑‚",
+			tLevel = {
+				false,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[6350] = {
+			nClass = "√‚∑‚",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1186] = {
+			nClass = "√‚∑‚",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18065] = {
+			nClass = "√‚∑‚",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6414] = {
+			nClass = "√‚∑‚",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["√‚∑‚"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 23,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

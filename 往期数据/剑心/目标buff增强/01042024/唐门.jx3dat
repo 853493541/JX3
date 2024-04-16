@@ -1,0 +1,260 @@
+return {
+	tBuff = {
+		[26018] = {
+			nClass = "百里",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3425] = {
+			nClass = "鬼斧",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22749] = {
+			nClass = "被凝",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26020] = {
+			nClass = "凝形",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3214] = {
+			nClass = "小惊鸿",
+			tLevel = {
+				true,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[11887] = {
+			nClass = "盘子",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20287] = {
+			nClass = "浮光",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12663] = {
+			nClass = "穿心",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3203] = {
+			nClass = "浮光",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15083] = {
+			nClass = "开车",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6112] = {
+			nClass = "加攻",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3221] = {
+			nClass = "化血",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3316] = {
+			nClass = "扬威",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26021] = {
+			nClass = "流火",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18030] = {
+			nClass = "河桥",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20359] = {
+			nClass = "开车",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11886] = {
+			nClass = "盘子",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3275] = {
+			nClass = "破隐",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20355] = {
+			nClass = "鬼斧",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["盘子"] = {
+			bBorderEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["凝形"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 256,
+			bEnable = true,
+		},
+		["破隐"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["百里"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 256,
+			bEnable = true,
+		},
+		["流火"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 256,
+			bEnable = true,
+		},
+		["化血"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["浮光"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["河桥"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["被凝"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["穿心"] = {
+			bBorderEnable = false,
+			nBorder = 1,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["鬼斧"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["扬威"] = {
+			bBorderEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["小惊鸿"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["加攻"] = {
+			bEnable = true,
+		},
+		["开车"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

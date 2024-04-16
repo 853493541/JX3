@@ -1,0 +1,143 @@
+return {
+	tBuff = {
+		[9961] = {
+			nClass = "化焉",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2757] = {
+			nClass = "固本",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[134] = {
+			nClass = "砍崽",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2983] = {
+			nClass = "无我",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[375] = {
+			nClass = "单山河",
+			tLevel = {
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				true,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[1091] = {
+			nClass = "玄剑",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24450] = {
+			nClass = "禁锢",
+			tLevel = {
+				[0] = true,
+				[2] = true,
+			},
+			nPower = 10,
+		},
+		[1094] = {
+			nClass = "化焉",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["固本"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 99,
+			bEnable = true,
+		},
+		["单山河"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["化生"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 17,
+			bEnable = true,
+		},
+		["禁锢"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["砍崽"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["玄剑"] = {
+			bBorderEnable = false,
+			nFont = 2,
+			bFontEnable = true,
+			nBorder = 7,
+			bEnable = true,
+		},
+		["化焉"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["无我"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

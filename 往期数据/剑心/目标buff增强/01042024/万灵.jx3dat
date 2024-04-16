@@ -1,0 +1,202 @@
+return {
+	tBuff = {
+		[26951] = {
+			nClass = "应天",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27544] = {
+			nClass = "小马",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26858] = {
+			nClass = "解控",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26952] = {
+			nClass = "小马",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27038] = {
+			nClass = "恐惧",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27459] = {
+			nClass = "变身",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27126] = {
+			nClass = "4豆变",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27408] = {
+			nClass = " |弓",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26856] = {
+			nClass = "贯穿",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27400] = {
+			nClass = "反隐",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27099] = {
+			nClass = "射箭",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27123] = {
+			nClass = "跑速",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26944] = {
+			nClass = "变身",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27409] = {
+			nClass = "流| ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["射箭"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["恐惧"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["解控"] = {
+			bBorderEnable = true,
+			nBorder = 10,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["小马"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 205,
+			bEnable = true,
+		},
+		[" |弓"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 12,
+			bEnable = true,
+		},
+		["反隐"] = {
+			bBorderEnable = true,
+			nFont = 235,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["变身"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["流| "] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 12,
+			bEnable = true,
+		},
+		["应天"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["贯穿"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["4豆变"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["跑速"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 256,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

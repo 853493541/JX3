@@ -1,0 +1,138 @@
+return {
+	tBuff = {
+		[10815] = {
+			nClass = "´óµ¶",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24694] = {
+			nClass = "°ÔÌå",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11361] = {
+			nClass = "°ÔÌå",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11322] = {
+			nClass = "°ÔÌå",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10814] = {
+			nClass = "Ë«µ¶",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10816] = {
+			nClass = "ÇÊµ¶",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11077] = {
+			nClass = "°ÔÌå",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20259] = {
+			nClass = "É¢",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11201] = {
+			nClass = "Á÷Ó°",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11151] = {
+			nClass = "É¢",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11456] = {
+			nClass = "Êè¿ñ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["Á÷Ó°"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["É¢"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["Ë«µ¶"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["´óµ¶"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["Êè¿ñ"] = {
+			bBorderEnable = true,
+			nFont = 226,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["ÇÊµ¶"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bEnable = true,
+		},
+		["°ÔÌå"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

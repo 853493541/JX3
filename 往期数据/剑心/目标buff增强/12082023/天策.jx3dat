@@ -1,0 +1,150 @@
+return {
+	tBuff = {
+		[367] = {
+			nClass = "山",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2756] = {
+			nClass = "可拉",
+			tLevel = {
+				true,
+				false,
+				[5] = false,
+				[6] = false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[2877] = {
+			nClass = "疾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10370] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[360] = {
+			nClass = "御",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20200] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6163] = {
+			nClass = "小山",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[204] = {
+			nClass = "飞遁",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[203] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6363] = {
+			nClass = "单风",
+			tLevel = {
+				false,
+				false,
+				true,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["疾"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["单风"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["御"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["虎"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["小山"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["飞遁"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["可拉"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["山"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

@@ -1,0 +1,146 @@
+return {
+	tBuff = {
+		[1242] = {
+			nClass = "舍身",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15919] = {
+			nClass = "无相",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12488] = {
+			nClass = "狮啸",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9835] = {
+			nClass = "外免",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10486] = {
+			nClass = "反弹",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9830] = {
+			nClass = "舍生",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[23068] = {
+			nClass = "纷纭",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10493] = {
+			nClass = "反弹",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[399] = {
+			nClass = "无相",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[856] = {
+			nClass = "内免",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["舍生"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["内免"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["外免"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["反弹"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["无相"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["狮啸"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["舍身"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["纷纭"] = {
+			bBorderEnable = false,
+			nFont = 2,
+			bFontEnable = true,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

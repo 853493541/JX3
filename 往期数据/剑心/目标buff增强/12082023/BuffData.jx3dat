@@ -1,0 +1,2652 @@
+return {
+	tBuff = {
+		[18105] = {
+			nClass = "仇非",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27544] = {
+			nClass = "骑马",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27038] = {
+			nClass = "恐惧",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12788] = {
+			nClass = "箱子",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[21181] = {
+			nClass = "失温",
+			tLevel = {
+				[0] = true,
+				[2] = true,
+			},
+			nPower = 10,
+		},
+		[3214] = {
+			nClass = "小惊鸿",
+			tLevel = {
+				true,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[22468] = {
+			nClass = "下草",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[23492] = {
+			nClass = "吃冰",
+			tLevel = {
+				true,
+				false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[203] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1676] = {
+			nClass = "玉泉",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9999] = {
+			nClass = "免封",
+			tLevel = {
+				false,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[17647] = {
+			nClass = "被关",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15621] = {
+			nClass = "鬼步",
+			tLevel = {
+				true,
+				false,
+				true,
+				false,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[682] = {
+			nClass = "雷霆",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18452] = {
+			nClass = "箱子",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27126] = {
+			nClass = "4豆变",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20245] = {
+			nClass = "风车",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[5668] = {
+			nClass = "风吹",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9266] = {
+			nClass = "云生",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14623] = {
+			nClass = "月影沙",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6182] = {
+			nClass = "冥泽",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27409] = {
+			nClass = "流| ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14631] = {
+			nClass = "月影沙",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11322] = {
+			nClass = "霸体",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24369] = {
+			nClass = "清静心",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10816] = {
+			nClass = "鞘刀",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[375] = {
+			nClass = "单山河",
+			tLevel = {
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				false,
+				true,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[11077] = {
+			nClass = "霸体",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[204] = {
+			nClass = "飞遁",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26951] = {
+			nClass = "应天",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15932] = {
+			nClass = "徵逐",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20074] = {
+			nClass = "没开",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2983] = {
+			nClass = "无我",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[25716] = {
+			nClass = "悬象",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15191] = {
+			nClass = "箱子",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1242] = {
+			nClass = "舍身",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12651] = {
+			nClass = "伪装",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9848] = {
+			nClass = "探梅",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18106] = {
+			nClass = "无仇",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[21170] = {
+			nClass = "红拾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24234] = {
+			nClass = "丹青",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12406] = {
+			nClass = "笑傲",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10370] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[4439] = {
+			nClass = "贪魔",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15735] = {
+			nClass = "斩无常",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26063] = {
+			nClass = "荧惑",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27099] = {
+			nClass = "射箭",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24553] = {
+			nClass = "电逝",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26856] = {
+			nClass = "贯穿",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20230] = {
+			nClass = "盾立",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22282] = {
+			nClass = "上天",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1186] = {
+			nClass = "免封",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20254] = {
+			nClass = "孤影",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22302] = {
+			nClass = "踏星",
+			tLevel = {
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[6247] = {
+			nClass = "没吞",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2877] = {
+			nClass = "疾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[5994] = {
+			nClass = "越渊",
+			tLevel = {
+				false,
+				[0] = false,
+				[4] = true,
+			},
+			nPower = 10,
+		},
+		[5995] = {
+			nClass = "笑醉",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[5996] = {
+			nClass = "笑醉",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11456] = {
+			nClass = "疏狂",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26944] = {
+			nClass = "变身",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26952] = {
+			nClass = "骑马",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2756] = {
+			nClass = "可拉",
+			tLevel = {
+				true,
+				false,
+				[5] = false,
+				[6] = false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[20075] = {
+			nClass = "千枝",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2757] = {
+			nClass = "固本",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[13771] = {
+			nClass = "鸟盾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9693] = {
+			nClass = "本体",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22386] = {
+			nClass = "被关",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26984] = {
+			nClass = "游斤",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10213] = {
+			nClass = "赢",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10215] = {
+			nClass = "厌斗",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24450] = {
+			nClass = "冰柱",
+			tLevel = {
+				[0] = true,
+				[3] = true,
+			},
+			nPower = 10,
+		},
+		[17585] = {
+			nClass = "踏星",
+			tLevel = {
+				true,
+				false,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27024] = {
+			nClass = "闻月",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10486] = {
+			nClass = "反弹",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[21171] = {
+			nClass = "蓝拾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[8458] = {
+			nClass = "免封",
+			tLevel = {
+				true,
+				false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[21087] = {
+			nClass = "蓝",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[367] = {
+			nClass = "山",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[856] = {
+			nClass = "内免",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10000] = {
+			nClass = "盏萤",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18030] = {
+			nClass = "河桥",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20709] = {
+			nClass = "机甲",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6163] = {
+			nClass = "小山",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18422] = {
+			nClass = "神光",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20359] = {
+			nClass = "开车",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3425] = {
+			nClass = "鬼斧",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[13074] = {
+			nClass = "战意",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9506] = {
+			nClass = "切剑",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24048] = {
+			nClass = "\"冥泽\"",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15912] = {
+			nClass = "成玉",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14638] = {
+			nClass = "被毒手",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[4052] = {
+			nClass = "闪避",
+			tLevel = {
+				false,
+				false,
+				false,
+				false,
+				false,
+				[11] = false,
+				[13] = false,
+				[8] = false,
+				[10] = false,
+				[12] = true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[10493] = {
+			nClass = "反弹",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15893] = {
+			nClass = "忘断",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9265] = {
+			nClass = "云生",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9772] = {
+			nClass = "笑傲",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20259] = {
+			nClass = "散",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9271] = {
+			nClass = "被迴",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24347] = {
+			nClass = "没决斗",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14630] = {
+			nClass = "月影沙",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9277] = {
+			nClass = "可拉",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27419] = {
+			nClass = "狂怒",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6363] = {
+			nClass = "单风",
+			tLevel = {
+				false,
+				false,
+				true,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[20287] = {
+			nClass = "浮光",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10815] = {
+			nClass = "大刀",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24360] = {
+			nClass = "寂灭",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9544] = {
+			nClass = "笑傲",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20251] = {
+			nClass = "被平",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[399] = {
+			nClass = "无相",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24353] = {
+			nClass = "寂灭蛊",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9830] = {
+			nClass = "舍生",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27459] = {
+			nClass = "变身",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[21088] = {
+			nClass = "红",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20072] = {
+			nClass = "上天",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1091] = {
+			nClass = "玄剑",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6236] = {
+			nClass = "''蝉蜕''",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14637] = {
+			nClass = "挂毒手",
+			tLevel = {
+				false,
+				false,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[15083] = {
+			nClass = "开车",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[23068] = {
+			nClass = "纷纭",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2543] = {
+			nClass = "掐蛇",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20355] = {
+			nClass = "鬼斧",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[8299] = {
+			nClass = "盾墙",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11361] = {
+			nClass = "霸体",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18327] = {
+			nClass = "准备",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9835] = {
+			nClass = "外免",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24200] = {
+			nClass = "禁跳",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18084] = {
+			nClass = "格挡",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20128] = {
+			nClass = "草中",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24614] = {
+			nClass = "雷霆",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3275] = {
+			nClass = "破隐",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[7056] = {
+			nClass = "雷霆",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15919] = {
+			nClass = "无相",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24694] = {
+			nClass = "霸体",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10618] = {
+			nClass = "免封",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[8300] = {
+			nClass = "盾墙",
+			tLevel = {
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9258] = {
+			nClass = "笑傲",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[134] = {
+			nClass = "砍崽",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6183] = {
+			nClass = "\"冥泽\"",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6350] = {
+			nClass = "免封",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1621] = {
+			nClass = "雷霆",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20878] = {
+			nClass = "可上",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[7118] = {
+			nClass = "有攸",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12488] = {
+			nClass = "狮啸",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22232] = {
+			nClass = "嗜蛊",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[360] = {
+			nClass = "御",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20200] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[17654] = {
+			nClass = "切奶",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[17967] = {
+			nClass = "无冥泽",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[8265] = {
+			nClass = "盾墙",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3316] = {
+			nClass = "扬威",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10014] = {
+			nClass = "入圣",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9889] = {
+			nClass = "蔑视",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26858] = {
+			nClass = "解控",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14498] = {
+			nClass = "精疲",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9678] = {
+			nClass = "云生",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6112] = {
+			nClass = "加攻",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10212] = {
+			nClass = "决斗中",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1856] = {
+			nClass = "风车",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[19222] = {
+			nClass = "喵盾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[21276] = {
+			nClass = "下草",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27400] = {
+			nClass = "反隐",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[8303] = {
+			nClass = "盾立",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27408] = {
+			nClass = " |弓",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6414] = {
+			nClass = "免封",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12720] = {
+			nClass = "爬爬",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[13742] = {
+			nClass = "定波",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[13744] = {
+			nClass = "反击",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20250] = {
+			nClass = "平到",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9704] = {
+			nClass = "比心",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1802] = {
+			nClass = "脆皮",
+			tLevel = {
+				true,
+				false,
+				false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[14105] = {
+			nClass = "崔嵬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20814] = {
+			nClass = "阿甘",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[1094] = {
+			nClass = "化焉",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27197] = {
+			nClass = "格挡",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10174] = {
+			nClass = "被平",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10173] = {
+			nClass = "平到",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[677] = {
+			nClass = "小鹊",
+			tLevel = {
+				false,
+				false,
+				false,
+				false,
+				true,
+				false,
+				false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[23898] = {
+			nClass = "凝云",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[3203] = {
+			nClass = "浮光",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22376] = {
+			nClass = "鸟盾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11151] = {
+			nClass = "散",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18049] = {
+			nClass = "巨门",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[27006] = {
+			nClass = "降命",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[13778] = {
+			nClass = "闪避",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[4033] = {
+			nClass = "贪魔",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24185] = {
+			nClass = "御劲",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22404] = {
+			nClass = "草中",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9961] = {
+			nClass = "化焉",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11201] = {
+			nClass = "流影",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[4871] = {
+			nClass = "魂锁",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10814] = {
+			nClass = "双刀",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9284] = {
+			nClass = "孤影",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[18065] = {
+			nClass = "免封",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[17077] = {
+			nClass = "有攸",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24340] = {
+			nClass = "没决斗",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["被迴"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["疾"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["蔑视"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["流| "] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 12,
+			bEnable = true,
+		},
+		["反击"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["虎"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["山"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		[" |弓"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 12,
+			bEnable = true,
+		},
+		["孤影"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["风车"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 61,
+			bEnable = true,
+		},
+		["被关"] = {
+			bBorderEnable = true,
+			nFont = 2,
+			bFontEnable = true,
+			nBorder = 9,
+			bEnable = true,
+		},
+		["电逝"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["无冥泽"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["免封"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 23,
+			bEnable = true,
+		},
+		["准备"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = false,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["风吹"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["鞘刀"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bEnable = true,
+		},
+		["射箭"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["单风"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["御劲"] = {
+			bBorderEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["固本"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 99,
+			bEnable = true,
+		},
+		["扬威"] = {
+			bBorderEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["冰柱"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["厌斗"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["蓝拾"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bEnable = true,
+		},
+		["骑马"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 205,
+			bEnable = true,
+		},
+		["反隐"] = {
+			bBorderEnable = true,
+			nFont = 235,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["机甲"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 205,
+			bEnable = true,
+		},
+		["喵盾"] = {
+			bBorderEnable = true,
+			nFont = 40,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["单山河"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["贯穿"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["恐惧"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["千枝"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["徵逐"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["大刀"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["加攻"] = {
+			bEnable = true,
+		},
+		["格挡"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["下草"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["巨门"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["玉泉"] = {
+			bBorderEnable = true,
+			nBorder = 10,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["飞遁"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["月影沙"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["游斤"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["4豆变"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["切剑"] = {
+			nFont = 205,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["冥泽"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["盏萤"] = {
+			bBorderEnable = true,
+			nFont = 226,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["蓝"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["无相"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["箱子"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["可拉"] = {
+			bBorderEnable = true,
+			nFont = 226,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["伪装"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["没决斗"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["平到"] = {
+			bBorderEnable = true,
+			nFont = 226,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["本体"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["探梅"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["有攸"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["小山"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["寂灭"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 99,
+			bEnable = true,
+		},
+		["被平"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 7,
+			bEnable = true,
+		},
+		["失温"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["''蝉蜕''"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["盾立"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["狂怒"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["闪避"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["被毒手"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["丹青"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["可上"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = false,
+			nFont = 205,
+			bEnable = true,
+		},
+		["入圣"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["破隐"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["嗜蛊"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["不闪避"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = false,
+		},
+		["化焉"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["寂灭蛊"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["笑傲"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["掐蛇"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["御"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["玄剑"] = {
+			bBorderEnable = false,
+			nFont = 2,
+			bFontEnable = true,
+			nBorder = 7,
+			bEnable = true,
+		},
+		["舍身"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["舍生"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["闻月"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["爬爬"] = {
+			bBorderEnable = true,
+			nBorder = 9,
+			bEnable = true,
+		},
+		["浮光"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["成玉"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 99,
+			bEnable = true,
+		},
+		["反弹"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["红拾"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bEnable = true,
+		},
+		["砍崽"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["小鹊"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["战意"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["阿甘"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 200,
+			bEnable = true,
+		},
+		["变身"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["没开"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["化生"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 17,
+			bEnable = true,
+		},
+		["清静心"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["精疲"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["小惊鸿"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["鸟盾"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["神光"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["疏狂"] = {
+			bBorderEnable = true,
+			nFont = 226,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["雷霆"] = {
+			bBorderEnable = true,
+			nBorder = 9,
+			bFontEnable = true,
+			nFont = 2,
+			bEnable = true,
+		},
+		["挂毒手"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["内免"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["禁锢"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["狮啸"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["\"冥泽\""] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["魂锁"] = {
+			bBorderEnable = true,
+			nFont = 2,
+			bFontEnable = true,
+			nBorder = 9,
+			bEnable = true,
+		},
+		["河桥"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["贪魔"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["外免"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["双刀"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["没吞"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["赢"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["越渊"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["凝云"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["踏星"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["散"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["无仇"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["崔嵬"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["笑醉"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["解控"] = {
+			bBorderEnable = true,
+			nBorder = 10,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["霸体"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["纷纭"] = {
+			bBorderEnable = false,
+			nFont = 2,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["盾墙"] = {
+			bBorderEnable = true,
+			nFont = 2,
+			bFontEnable = false,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["鬼斧"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["草中"] = {
+			bBorderEnable = true,
+			nBorder = 9,
+			bEnable = true,
+		},
+		["上天"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			nFont = 187,
+			bEnable = true,
+		},
+		["忘断"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["比心"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["定波"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["开车"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["无我"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["荧惑"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["斩无常"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["切奶"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 14,
+			bEnable = true,
+		},
+		["降命"] = {
+			bBorderEnable = true,
+			nBorder = 9,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["云生"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["吃冰"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["应天"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = false,
+			bEnable = true,
+		},
+		["脆皮"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["仇非"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["决斗中"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["流影"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["红"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["禁跳"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["悬象"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["鬼步"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

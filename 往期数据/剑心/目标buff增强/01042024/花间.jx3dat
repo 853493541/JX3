@@ -1,0 +1,83 @@
+return {
+	tBuff = {
+		[24234] = {
+			nClass = "丹青",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20814] = {
+			nClass = "阿甘",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20878] = {
+			nClass = "可上",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[26984] = {
+			nClass = "游斤",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20709] = {
+			nClass = "机甲",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["机甲"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 205,
+			bEnable = true,
+		},
+		["可上"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = false,
+			nFont = 205,
+			bEnable = true,
+		},
+		["游斤"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["阿甘"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 200,
+			bEnable = true,
+		},
+		["丹青"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

@@ -1,0 +1,129 @@
+return {
+	tBuff = {
+		[24353] = {
+			nClass = "º≈√π∆",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6247] = {
+			nClass = "√ªÕÃ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6236] = {
+			nClass = "''≤ıÕ…''",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14637] = {
+			nClass = "π“∂æ ÷",
+			tLevel = {
+				false,
+				false,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[2543] = {
+			nClass = "∆˛…ﬂ",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14638] = {
+			nClass = "±ª∂æ ÷",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22232] = {
+			nClass = " »π∆",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24360] = {
+			nClass = "º≈√",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["√ªÕÃ"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["∆˛…ﬂ"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["º≈√"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 99,
+			bEnable = true,
+		},
+		["''≤ıÕ…''"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		[" »π∆"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["±ª∂æ ÷"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["π“∂æ ÷"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["º≈√π∆"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

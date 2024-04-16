@@ -1,0 +1,159 @@
+return {
+	tBuff = {
+		[24360] = {
+			nClass = "¼ÅÃð",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24353] = {
+			nClass = "¼ÅÃð¹Æ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6247] = {
+			nClass = "Ã»ÍÌ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22232] = {
+			nClass = "ÊÈ¹Æ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6236] = {
+			nClass = "''²õÍÉ''",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22731] = {
+			nClass = "°Ù×ã",
+			tLevel = {
+				false,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2542] = {
+			nClass = "ÆþßÉ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14637] = {
+			nClass = "¹Ò¶¾ÊÖ",
+			tLevel = {
+				false,
+				false,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[2543] = {
+			nClass = "ÆþÉß",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[14638] = {
+			nClass = "±»¶¾ÊÖ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["ÊÈ¹Æ"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["¹Ò¶¾ÊÖ"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["°Ù×ã"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["±»¶¾ÊÖ"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["ÆþÉß"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["ÆþßÉ"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["Ã»ÍÌ"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["¼ÅÃð"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bFontEnable = true,
+			nFont = 99,
+			bEnable = true,
+		},
+		["¼ÅÃð¹Æ"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["''²õÍÉ''"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

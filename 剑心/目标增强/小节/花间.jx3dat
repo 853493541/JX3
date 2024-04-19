@@ -178,7 +178,7 @@ return {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 13,
 			bEnable = true,
 		},
 		["毫针"] = {
@@ -192,7 +192,7 @@ return {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 1,
 			bEnable = true,
 		},
 		["阿甘"] = {
@@ -239,16 +239,16 @@ return {
 		},
 		["可上"] = {
 			bBorderEnable = true,
-			nBorder = 13,
-			bFontEnable = false,
-			nFont = 205,
+			nBorder = 9,
+			bFontEnable = true,
+			nFont = 99,
 			bEnable = true,
 		},
 		["游斤"] = {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 1,
 			bEnable = true,
 		},
 		["列宿"] = {
@@ -274,7 +274,7 @@ return {
 		},
 		["丹青"] = {
 			bBorderEnable = true,
-			nFont = 159,
+			nFont = 256,
 			bFontEnable = true,
 			nBorder = 1,
 			bEnable = true,

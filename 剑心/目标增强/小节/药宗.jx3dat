@@ -1,32 +1,23 @@
 return {
 	tBuff = {
-		[20128] = {
-			nClass = "草中",
-			tLevel = {
-				true,
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[21276] = {
-			nClass = "下草",
+		[20666] = {
+			nClass = "开人",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[20052] = {
-			nClass = "逆乱",
+		[20190] = {
+			nClass = "阻疗",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[20766] = {
-			nClass = "青圃",
+		[20074] = {
+			nClass = "没开",
 			tLevel = {
 				true,
 				[0] = true,
@@ -41,16 +32,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[20072] = {
-			nClass = "上天",
+		[20052] = {
+			nClass = "逆乱",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[20787] = {
-			nClass = "并蒂",
+		[21751] = {
+			nClass = "且待",
 			tLevel = {
 				true,
 				[0] = true,
@@ -61,6 +52,55 @@ return {
 			nClass = "千枝",
 			tLevel = {
 				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20188] = {
+			nClass = "阻疗",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20128] = {
+			nClass = "草中",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20072] = {
+			nClass = "上天",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[21276] = {
+			nClass = "下草",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20667] = {
+			nClass = "免拉",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20789] = {
+			nClass = "自伤",
+			tLevel = {
 				true,
 				[0] = true,
 			},
@@ -79,48 +119,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[20789] = {
-			nClass = "自伤",
+		[20787] = {
+			nClass = "并蒂",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[21751] = {
-			nClass = "且待",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20667] = {
-			nClass = "免拉",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20188] = {
-			nClass = "阻疗",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20074] = {
-			nClass = "没开",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[20190] = {
-			nClass = "阻疗",
+		[20766] = {
+			nClass = "青圃",
 			tLevel = {
 				true,
 				[0] = true,
@@ -145,14 +153,14 @@ return {
 		},
 		["草中"] = {
 			bBorderEnable = true,
-			nBorder = 9,
+			nBorder = 45,
 			bFontEnable = true,
 			nFont = 245,
 			bEnable = true,
 		},
 		["免拉"] = {
 			bBorderEnable = true,
-			nFont = 256,
+			nFont = 99,
 			bFontEnable = true,
 			nBorder = 45,
 			bEnable = true,
@@ -169,10 +177,18 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["下草"] = {
+		["开人"] = {
 			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
 			nBorder = 45,
-			bFontEnable = false,
+			bEnable = true,
+		},
+		["并蒂"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
 			bEnable = true,
 		},
 		["上天"] = {
@@ -203,11 +219,10 @@ return {
 			nBorder = 14,
 			bEnable = true,
 		},
-		["并蒂"] = {
+		["下草"] = {
 			bBorderEnable = true,
-			nFont = 159,
-			bFontEnable = true,
-			nBorder = 1,
+			nBorder = 45,
+			bFontEnable = false,
 			bEnable = true,
 		},
 	},

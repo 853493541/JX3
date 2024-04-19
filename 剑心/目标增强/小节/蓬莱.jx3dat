@@ -64,8 +64,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[14082] = {
-			nClass = "≥À¡˙",
+		[14540] = {
+			nClass = "≥≈…°",
 			tLevel = {
 				true,
 				[0] = true,
@@ -88,8 +88,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[14540] = {
-			nClass = "≥≈…°",
+		[14082] = {
+			nClass = "≥À¡˙",
 			tLevel = {
 				true,
 				[0] = true,
@@ -115,14 +115,14 @@ return {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 1,
 			bEnable = true,
 		},
 		["¥ﬁ·Õ"] = {
 			bBorderEnable = true,
 			nBorder = 45,
 			bFontEnable = true,
-			nFont = 256,
+			nFont = 186,
 			bEnable = true,
 		},
 		["≥À¡˙"] = {
@@ -143,12 +143,12 @@ return {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 13,
 			bEnable = true,
 		},
 		["Ω˚Ã¯"] = {
 			bBorderEnable = true,
-			nFont = 246,
+			nFont = 40,
 			bFontEnable = true,
 			nBorder = 9,
 			bEnable = true,

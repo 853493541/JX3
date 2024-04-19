@@ -83,24 +83,16 @@ return {
 			},
 			nPower = 10,
 		},
+		[10471] = {
+			nClass = "''落雁''",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[10014] = {
 			nClass = "入圣",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[9678] = {
-			nClass = "云生",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[9506] = {
-			nClass = "切剑",
 			tLevel = {
 				true,
 				[0] = true,
@@ -115,8 +107,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[12406] = {
-			nClass = "笑傲",
+		[9678] = {
+			nClass = "云生",
 			tLevel = {
 				true,
 				[0] = true,
@@ -139,8 +131,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[9265] = {
-			nClass = "云生",
+		[9506] = {
+			nClass = "切剑",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12406] = {
+			nClass = "笑傲",
 			tLevel = {
 				true,
 				[0] = true,
@@ -158,6 +158,14 @@ return {
 		},
 		[9358] = {
 			nClass = "商",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9265] = {
+			nClass = "云生",
 			tLevel = {
 				true,
 				[0] = true,
@@ -190,21 +198,11 @@ return {
 		},
 	},
 	tClass = {
-		["江逐"] = {
+		["入圣"] = {
 			bBorderEnable = true,
-			nFont = 256,
-			bFontEnable = true,
-			nBorder = 11,
-			bEnable = true,
-		},
-		["平到"] = {
-			bBorderEnable = true,
-			nFont = 226,
+			nFont = 187,
 			bFontEnable = true,
 			nBorder = 45,
-			bEnable = true,
-		},
-		["商"] = {
 			bEnable = true,
 		},
 		["被迴"] = {
@@ -212,6 +210,18 @@ return {
 			nBorder = 1,
 			bFontEnable = true,
 			nFont = 159,
+			bEnable = true,
+		},
+		["商"] = {
+			nFont = 159,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["平到"] = {
+			bBorderEnable = true,
+			nFont = 226,
+			bFontEnable = true,
+			nBorder = 45,
 			bEnable = true,
 		},
 		["盏萤"] = {
@@ -228,11 +238,11 @@ return {
 			nBorder = 45,
 			bEnable = true,
 		},
-		["落雁"] = {
+		["本体"] = {
 			bBorderEnable = true,
-			nFont = 17,
+			nFont = 187,
 			bFontEnable = true,
-			nBorder = 1,
+			nBorder = 45,
 			bEnable = true,
 		},
 		["被平"] = {
@@ -249,11 +259,11 @@ return {
 			nBorder = 45,
 			bEnable = true,
 		},
-		["孤影"] = {
+		["江逐"] = {
 			bBorderEnable = true,
-			nFont = 187,
+			nFont = 256,
 			bFontEnable = true,
-			nBorder = 45,
+			nBorder = 11,
 			bEnable = true,
 		},
 		["啸影"] = {
@@ -264,16 +274,16 @@ return {
 			bEnable = true,
 		},
 		["角"] = {
-			bEnable = true,
-		},
-		["入圣"] = {
-			bBorderEnable = true,
-			nFont = 187,
+			nFont = 159,
 			bFontEnable = true,
-			nBorder = 45,
 			bEnable = true,
 		},
-		["本体"] = {
+		["切剑"] = {
+			nFont = 205,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["孤影"] = {
 			bBorderEnable = true,
 			nFont = 187,
 			bFontEnable = true,
@@ -287,9 +297,11 @@ return {
 			nBorder = 13,
 			bEnable = true,
 		},
-		["切剑"] = {
-			nFont = 205,
+		["''落雁''"] = {
+			bBorderEnable = true,
+			nFont = 17,
 			bFontEnable = true,
+			nBorder = 13,
 			bEnable = true,
 		},
 	},

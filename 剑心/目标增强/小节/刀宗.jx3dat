@@ -42,14 +42,13 @@ return {
 			bBorderEnable = true,
 			nBorder = 9,
 			bFontEnable = true,
-			nFont = 159,
+			nFont = 40,
 			bEnable = true,
 		},
-		["µçÊÅ"] = {
+		["ÄıÔÆ"] = {
 			bBorderEnable = true,
-			nBorder = 13,
+			nBorder = 45,
 			bFontEnable = true,
-			nFont = 186,
 			bEnable = true,
 		},
 		["Óù¾¢"] = {
@@ -57,10 +56,11 @@ return {
 			nBorder = 10,
 			bEnable = true,
 		},
-		["ÄıÔÆ"] = {
+		["µçÊÅ"] = {
 			bBorderEnable = true,
-			nBorder = 45,
+			nBorder = 13,
 			bFontEnable = true,
+			nFont = 186,
 			bEnable = true,
 		},
 	},

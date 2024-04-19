@@ -132,16 +132,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[24347] = {
-			nClass = "没决斗",
+		[8303] = {
+			nClass = "盾立",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[8303] = {
-			nClass = "盾立",
+		[24347] = {
+			nClass = "没决斗",
 			tLevel = {
 				true,
 				[0] = true,
@@ -159,7 +159,7 @@ return {
 		},
 		["决斗中"] = {
 			bBorderEnable = true,
-			nFont = 187,
+			nFont = 205,
 			bFontEnable = true,
 			nBorder = 45,
 			bEnable = true,
@@ -192,6 +192,34 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
+		["''石虎''"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["盾立"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["蔑视"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["仇非"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
 		["精疲"] = {
 			bBorderEnable = true,
 			nFont = 17,
@@ -204,34 +232,6 @@ return {
 			nFont = 2,
 			bFontEnable = false,
 			nBorder = 45,
-			bEnable = true,
-		},
-		["蔑视"] = {
-			bBorderEnable = true,
-			nFont = 17,
-			bFontEnable = true,
-			nBorder = 1,
-			bEnable = true,
-		},
-		["仇非"] = {
-			bBorderEnable = true,
-			nFont = 187,
-			bFontEnable = true,
-			nBorder = 45,
-			bEnable = true,
-		},
-		["盾立"] = {
-			bBorderEnable = true,
-			nFont = 187,
-			bFontEnable = true,
-			nBorder = 45,
-			bEnable = true,
-		},
-		["''石虎''"] = {
-			bBorderEnable = true,
-			nFont = 17,
-			bFontEnable = true,
-			nBorder = 1,
 			bEnable = true,
 		},
 		["降攻"] = {

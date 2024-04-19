@@ -8,6 +8,14 @@ return {
 			},
 			nPower = 10,
 		},
+		[9171] = {
+			nClass = "ÐþµÂ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[384] = {
 			nClass = "×ª",
 			tLevel = {
@@ -34,7 +42,7 @@ return {
 			nPower = 10,
 		},
 		[1094] = {
-			nClass = "»¯ÑÉ",
+			nClass = "»¯Éú",
 			tLevel = {
 				true,
 				[0] = true,
@@ -71,9 +79,19 @@ return {
 			},
 			nPower = 10,
 		},
-		[9961] = {
-			nClass = "»¯ÑÉ",
+		[372] = {
+			nClass = "Æ¾Ðé",
 			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6299] = {
+			nClass = "Æ¾Ðé",
+			tLevel = {
+				true,
 				true,
 				[0] = true,
 			},
@@ -85,6 +103,14 @@ return {
 				true,
 				true,
 				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[9961] = {
+			nClass = "»¯ÑÉ",
+			tLevel = {
 				true,
 				[0] = true,
 			},
@@ -112,6 +138,13 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
+		["ÐþµÂ"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
 		["×ª"] = {
 			bBorderEnable = true,
 			nBorder = 45,
@@ -125,9 +158,16 @@ return {
 			nFont = 17,
 			bEnable = true,
 		},
-		["¿³áÌ"] = {
+		["Æ¾Ðé"] = {
 			bBorderEnable = true,
-			nFont = 159,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["½ûïÀ"] = {
+			bBorderEnable = true,
+			nFont = 205,
 			bFontEnable = true,
 			nBorder = 1,
 			bEnable = true,
@@ -136,7 +176,7 @@ return {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 13,
 			bEnable = true,
 		},
 		["ÁèÔÆ"] = {
@@ -146,9 +186,9 @@ return {
 			nBorder = 9,
 			bEnable = true,
 		},
-		["½ûïÀ"] = {
+		["¿³áÌ"] = {
 			bBorderEnable = true,
-			nFont = 205,
+			nFont = 159,
 			bFontEnable = true,
 			nBorder = 1,
 			bEnable = true,

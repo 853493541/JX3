@@ -1,23 +1,7 @@
 return {
 	tBuff = {
-		[10816] = {
-			nClass = "ÇÊµ¶",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[12506] = {
-			nClass = "º®ÒÂ",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[11151] = {
-			nClass = "É¢",
+		[11385] = {
+			nClass = "ÏÂÈ¦",
 			tLevel = {
 				true,
 				[0] = true,
@@ -32,15 +16,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[24643] = {
-			nClass = "Ñïµ¶",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[11361] = {
+		[24694] = {
 			nClass = "°ÔÌå",
 			tLevel = {
 				true,
@@ -48,8 +24,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[11385] = {
-			nClass = "ÏÂÈ¦",
+		[11151] = {
+			nClass = "É¢",
 			tLevel = {
 				true,
 				[0] = true,
@@ -64,16 +40,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[11456] = {
-			nClass = "Êè¿ñ",
+		[11201] = {
+			nClass = "Á÷Ó°",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[11201] = {
-			nClass = "Á÷Ó°",
+		[11322] = {
+			nClass = "°ÔÌå",
 			tLevel = {
 				true,
 				[0] = true,
@@ -88,8 +64,32 @@ return {
 			},
 			nPower = 10,
 		},
+		[10816] = {
+			nClass = "ÇÊµ¶",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11456] = {
+			nClass = "Êè¿ñ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[10815] = {
 			nClass = "´óµ¶",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11077] = {
+			nClass = "°ÔÌå",
 			tLevel = {
 				true,
 				[0] = true,
@@ -105,7 +105,15 @@ return {
 			},
 			nPower = 10,
 		},
-		[11077] = {
+		[12506] = {
+			nClass = "º®ÒÂ",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[11361] = {
 			nClass = "°ÔÌå",
 			tLevel = {
 				true,
@@ -113,16 +121,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[11322] = {
-			nClass = "°ÔÌå",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[24694] = {
-			nClass = "°ÔÌå",
+		[24643] = {
+			nClass = "Ñïµ¶",
 			tLevel = {
 				true,
 				[0] = true,
@@ -205,18 +205,18 @@ return {
 			nBorder = 10,
 			bEnable = true,
 		},
+		["º®ÒÂ"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
 		["±¬Ìå"] = {
 			bBorderEnable = true,
 			nFont = 205,
 			bFontEnable = true,
 			nBorder = 10,
-			bEnable = true,
-		},
-		["º®ÒÂ"] = {
-			bBorderEnable = true,
-			nFont = 186,
-			bFontEnable = true,
-			nBorder = 45,
 			bEnable = true,
 		},
 	},

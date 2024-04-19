@@ -28,11 +28,27 @@ return {
 			},
 			nPower = 10,
 		},
-		[17015] = {
+		[6113] = {
 			nClass = "",
 			tLevel = {
+				true,
 				[0] = true,
-				[2] = true,
+			},
+			nPower = 10,
+		},
+		[18148] = {
+			nClass = "",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[15921] = {
+			nClass = "",
+			tLevel = {
+				true,
+				[0] = true,
 			},
 			nPower = 10,
 		},
@@ -61,22 +77,6 @@ return {
 			},
 			nPower = 10,
 		},
-		[1780] = {
-			nClass = "·öÒ¡",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[15921] = {
-			nClass = "",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
 		[22924] = {
 			nClass = "",
 			tLevel = {
@@ -85,9 +85,28 @@ return {
 			},
 			nPower = 10,
 		},
-		[10617] = {
+		[2797] = {
 			nClass = "",
 			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2490] = {
+			nClass = "·âÄÚ",
+			tLevel = {
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[7790] = {
+			nClass = "",
+			tLevel = {
+				true,
 				true,
 				[0] = true,
 			},
@@ -101,7 +120,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[2797] = {
+		[10617] = {
 			nClass = "",
 			tLevel = {
 				true,
@@ -125,10 +144,9 @@ return {
 			},
 			nPower = 10,
 		},
-		[7790] = {
+		[70444] = {
 			nClass = "",
 			tLevel = {
-				true,
 				true,
 				[0] = true,
 			},
@@ -143,7 +161,7 @@ return {
 			},
 			nPower = 10,
 		},
-		[6113] = {
+		[2177] = {
 			nClass = "",
 			tLevel = {
 				true,
@@ -168,8 +186,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[2177] = {
-			nClass = "",
+		[1780] = {
+			nClass = "·öÒ¡",
 			tLevel = {
 				true,
 				[0] = true,

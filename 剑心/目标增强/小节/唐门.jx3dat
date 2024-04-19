@@ -59,6 +59,14 @@ return {
 			},
 			nPower = 10,
 		},
+		[14611] = {
+			nClass = "大化血",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
 		[9981] = {
 			nClass = "秋风",
 			tLevel = {
@@ -67,8 +75,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[22750] = {
-			nClass = "在凝",
+		[3468] = {
+			nClass = "心无",
 			tLevel = {
 				true,
 				[0] = true,
@@ -107,8 +115,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[12483] = {
-			nClass = "挂天",
+		[26021] = {
+			nClass = "流火",
 			tLevel = {
 				true,
 				[0] = true,
@@ -123,16 +131,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[3203] = {
-			nClass = "浮光",
+		[11886] = {
+			nClass = "盘子",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[18030] = {
-			nClass = "河桥",
+		[15083] = {
+			nClass = "开车",
 			tLevel = {
 				true,
 				[0] = true,
@@ -147,16 +155,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[9845] = {
-			nClass = "无隐追",
+		[3275] = {
+			nClass = "破隐",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[6112] = {
-			nClass = "加攻",
+		[18030] = {
+			nClass = "河桥",
 			tLevel = {
 				true,
 				[0] = true,
@@ -171,8 +179,8 @@ return {
 			},
 			nPower = 10,
 		},
-		[3217] = {
-			nClass = "鸟翔",
+		[9845] = {
+			nClass = "无隐追",
 			tLevel = {
 				true,
 				[0] = true,
@@ -211,40 +219,40 @@ return {
 			},
 			nPower = 10,
 		},
-		[3275] = {
-			nClass = "破隐",
+		[3217] = {
+			nClass = "鸟翔",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[15083] = {
-			nClass = "开车",
+		[6112] = {
+			nClass = "加攻",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[11886] = {
-			nClass = "盘子",
+		[3203] = {
+			nClass = "浮光",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[26021] = {
-			nClass = "流火",
+		[12483] = {
+			nClass = "挂天",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[3468] = {
-			nClass = "心无",
+		[22750] = {
+			nClass = "在凝",
 			tLevel = {
 				true,
 				[0] = true,
@@ -265,30 +273,33 @@ return {
 			nFont = 2,
 			bEnable = true,
 		},
+		["大化血"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
 		["浮光"] = {
 			bBorderEnable = true,
 			nBorder = 45,
 			bFontEnable = false,
 			bEnable = true,
 		},
-		["挂天"] = {
-			bBorderEnable = true,
-			nFont = 187,
-			bFontEnable = true,
-			nBorder = 45,
+		["化血"] = {
+			bBorderEnable = false,
+			nBorder = 1,
 			bEnable = true,
 		},
-		["被凝"] = {
+		["大心无"] = {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
-			nBorder = 1,
+			nBorder = 13,
 			bEnable = true,
 		},
-		["穿心"] = {
-			bBorderEnable = false,
-			nBorder = 1,
-			bFontEnable = true,
+		["加攻"] = {
+			bFontEnable = false,
 			bEnable = true,
 		},
 		["秋风"] = {
@@ -312,7 +323,11 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["加攻"] = {
+		["被凝"] = {
+			bBorderEnable = true,
+			nFont = 256,
+			bFontEnable = true,
+			nBorder = 1,
 			bEnable = true,
 		},
 		["开车"] = {
@@ -321,18 +336,24 @@ return {
 			bFontEnable = true,
 			bEnable = true,
 		},
-		["百里"] = {
+		["幽影"] = {
 			bBorderEnable = true,
-			nBorder = 9,
-			bFontEnable = true,
 			nFont = 40,
+			bFontEnable = true,
+			nBorder = 12,
 			bEnable = true,
 		},
 		["爆炸"] = {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["鬼斧"] = {
+			bBorderEnable = true,
+			nBorder = 61,
+			bFontEnable = true,
 			bEnable = true,
 		},
 		["凝形"] = {
@@ -342,14 +363,7 @@ return {
 			nFont = 40,
 			bEnable = true,
 		},
-		["破隐"] = {
-			bBorderEnable = true,
-			nBorder = 10,
-			bFontEnable = true,
-			nFont = 159,
-			bEnable = true,
-		},
-		["在凝"] = {
+		["减化"] = {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
@@ -371,13 +385,17 @@ return {
 			bEnable = true,
 		},
 		["心无"] = {
+			bBorderEnable = true,
+			nFont = 256,
+			bFontEnable = true,
+			nBorder = 11,
 			bEnable = true,
 		},
 		["河桥"] = {
 			bBorderEnable = true,
 			nBorder = 13,
 			bFontEnable = true,
-			nFont = 187,
+			nFont = 186,
 			bEnable = true,
 		},
 		["荆棘"] = {
@@ -387,24 +405,25 @@ return {
 			nBorder = 9,
 			bEnable = true,
 		},
-		["减化"] = {
+		["在凝"] = {
 			bBorderEnable = true,
 			nFont = 256,
 			bFontEnable = true,
 			nBorder = 11,
 			bEnable = true,
 		},
-		["鬼斧"] = {
+		["破隐"] = {
 			bBorderEnable = true,
-			nBorder = 61,
+			nBorder = 10,
 			bFontEnable = true,
+			nFont = 159,
 			bEnable = true,
 		},
-		["幽影"] = {
+		["百里"] = {
 			bBorderEnable = true,
-			nFont = 245,
+			nBorder = 9,
 			bFontEnable = true,
-			nBorder = 12,
+			nFont = 40,
 			bEnable = true,
 		},
 		["无隐追"] = {
@@ -414,16 +433,17 @@ return {
 			nBorder = 13,
 			bEnable = true,
 		},
-		["大心无"] = {
-			bBorderEnable = true,
-			nFont = 256,
+		["穿心"] = {
+			bBorderEnable = false,
+			nBorder = 1,
 			bFontEnable = true,
-			nBorder = 11,
 			bEnable = true,
 		},
-		["化血"] = {
+		["挂天"] = {
 			bBorderEnable = true,
-			nBorder = 1,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
 			bEnable = true,
 		},
 	},

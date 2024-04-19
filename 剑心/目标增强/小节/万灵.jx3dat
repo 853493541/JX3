@@ -57,14 +57,6 @@ return {
 			},
 			nPower = 10,
 		},
-		[27128] = {
-			nClass = "佩弦",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
 		[26927] = {
 			nClass = "标记",
 			tLevel = {
@@ -113,16 +105,17 @@ return {
 			},
 			nPower = 10,
 		},
-		[26944] = {
-			nClass = "变身",
+		[26951] = {
+			nClass = "应天",
 			tLevel = {
+				true,
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27459] = {
-			nClass = "合神",
+		[27087] = {
+			nClass = "阻疗",
 			tLevel = {
 				true,
 				[0] = true,
@@ -137,18 +130,17 @@ return {
 			},
 			nPower = 10,
 		},
-		[27087] = {
-			nClass = "降疗",
+		[27459] = {
+			nClass = "合神",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[26951] = {
-			nClass = "应天",
+		[26944] = {
+			nClass = "合神",
 			tLevel = {
-				true,
 				true,
 				[0] = true,
 			},
@@ -184,6 +176,13 @@ return {
 			nFont = 186,
 			bEnable = true,
 		},
+		["变身"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 256,
+			bEnable = true,
+		},
 		["应天"] = {
 			bBorderEnable = true,
 			nBorder = 45,
@@ -211,13 +210,6 @@ return {
 			nFont = 256,
 			bEnable = true,
 		},
-		[" |星"] = {
-			bBorderEnable = true,
-			nFont = 205,
-			bFontEnable = true,
-			nBorder = 12,
-			bEnable = true,
-		},
 		["反隐"] = {
 			bBorderEnable = true,
 			nFont = 235,
@@ -225,30 +217,30 @@ return {
 			nBorder = 1,
 			bEnable = true,
 		},
-		["标记"] = {
+		[" |星"] = {
 			bBorderEnable = true,
-			nFont = 256,
+			nFont = 205,
 			bFontEnable = true,
-			nBorder = 11,
+			nBorder = 12,
+			bEnable = true,
+		},
+		["阻疗"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 14,
+			bEnable = true,
+		},
+		["祝灵"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
 			bEnable = true,
 		},
 		["跑速"] = {
 			bBorderEnable = true,
 			nBorder = 11,
-			bFontEnable = true,
-			nFont = 256,
-			bEnable = true,
-		},
-		["降疗"] = {
-			bBorderEnable = true,
-			nFont = 17,
-			bFontEnable = true,
-			nBorder = 14,
-			bEnable = true,
-		},
-		["变身"] = {
-			bBorderEnable = true,
-			nBorder = 45,
 			bFontEnable = true,
 			nFont = 256,
 			bEnable = true,
@@ -260,13 +252,6 @@ return {
 			nBorder = 14,
 			bEnable = true,
 		},
-		["佩弦"] = {
-			bBorderEnable = true,
-			nFont = 256,
-			bFontEnable = true,
-			nBorder = 11,
-			bEnable = true,
-		},
 		["4豆变"] = {
 			bBorderEnable = true,
 			nBorder = 13,
@@ -274,11 +259,11 @@ return {
 			nFont = 186,
 			bEnable = true,
 		},
-		["祝灵"] = {
+		["标记"] = {
 			bBorderEnable = true,
-			nFont = 159,
+			nFont = 256,
 			bFontEnable = true,
-			nBorder = 1,
+			nBorder = 11,
 			bEnable = true,
 		},
 	},

@@ -158,8 +158,8 @@ OFF穿心|sn>=2,[#FF1F1FFF],(流),#5
 浮空,[#FFFF1FFF],(鸟),#9,!!!!|[#FFFF1F]
 惊鸿游龙,[#7FFF1FFF],(惊),#3,!!!!|[#7FFF1F]
 3203|lv1,[#FFFFFFFF],(隐),#3,!!,!!!!|[#FFFFFF]
-3203|lv5,[#FFFF1FFF],(隐),!!!!|[#FFFF1F]
-3203|lv3,[#FFFFFFFF],(隐),!!,!!!!|[#FFFFFF]
+3203|lv5,[#FFFF1FFF],(隐),#3,!!!!|[#FFFF1F]
+3203|lv3,[#FFFFFFFF],(隐),#3,!!,!!!!|[#FFFFFF]
 绝伦逸群,[#7FFF1FFF],(免),#6
 遁影,[#7FFF1FFF],(走),#1,!!!!|[#7FFF1F]
 荆天棘地,[#BFBFBFFF],(荆),#9,!!!!|[#BFBFBF]

@@ -1,0 +1,11 @@
+NPC:
+67c483aa-30d4-4541-900f-99e0cd4143e2
+
+DEBUFF：
+9e5cd19a-f26f-412c-906b-695f7cb4dec7
+
+BUFF:
+3459883d-7308-416a-bc0f-e7cae8585ba6
+
+CHAT(系统）:
+19d7c8cb-3dbc-4b29-aa4b-731a3ec7b28b

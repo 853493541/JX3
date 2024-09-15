@@ -1,0 +1,385 @@
+return {
+	tBuff = {
+		[2774] = {
+			nClass = "霹雳",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[881] = {
+			nClass = "回血",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2877] = {
+			nClass = "疾",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12461] = {
+			nClass = "击水",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[10245] = {
+			nClass = "破重围",
+			tLevel = {
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[21638] = {
+			nClass = "龙驭",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24356] = {
+			nClass = "重创",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6363] = {
+			nClass = "单风",
+			tLevel = {
+				false,
+				false,
+				true,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[10370] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[2756] = {
+			nClass = "可拉",
+			tLevel = {
+				true,
+				false,
+				[5] = false,
+				[6] = false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[2275] = {
+			nClass = "断魂",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[24275] = {
+			nClass = "铁骑",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[203] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				true,
+				true,
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[360] = {
+			nClass = "御",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20200] = {
+			nClass = "虎",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[19317] = {
+			nClass = "击水",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6120] = {
+			nClass = "破御",
+			tLevel = {
+				[0] = true,
+				[2] = true,
+			},
+			nPower = 10,
+		},
+		[3442] = {
+			nClass = "流血",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[22930] = {
+			nClass = "车悬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6163] = {
+			nClass = "小山",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[204] = {
+			nClass = "飞遁",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[17071] = {
+			nClass = "破军",
+			tLevel = {
+				true,
+				false,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[17042] = {
+			nClass = "青阳",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[367] = {
+			nClass = "山",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[6121] = {
+			nClass = "可灭",
+			tLevel = {
+				false,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[855] = {
+			nClass = "风",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+	},
+	tClass = {
+		["单风"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["龙驭"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["可灭"] = {
+			nFont = 245,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["断魂"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["青阳"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["破御"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["霹雳"] = {
+			bBorderEnable = true,
+			nBorder = 14,
+			bFontEnable = true,
+			nFont = 199,
+			bEnable = true,
+		},
+		["可拉"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["破军"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 256,
+			bEnable = true,
+		},
+		["流血"] = {
+			bBorderEnable = true,
+			nBorder = 11,
+			bEnable = true,
+		},
+		["疾"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["虎"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 187,
+			bEnable = true,
+		},
+		["车悬"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["飞遁"] = {
+			bBorderEnable = true,
+			nBorder = 13,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["山"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["马上灭"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 11,
+			bEnable = true,
+		},
+		["铁骑"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			nFont = 186,
+			bEnable = true,
+		},
+		["御"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["破重围"] = {
+			bBorderEnable = true,
+			nFont = 99,
+			bFontEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["回血"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["重创"] = {
+			bBorderEnable = true,
+			nFont = 17,
+			bFontEnable = true,
+			nBorder = 14,
+			bEnable = true,
+		},
+		["小山"] = {
+			bBorderEnable = true,
+			nBorder = 1,
+			bFontEnable = true,
+			nFont = 159,
+			bEnable = true,
+		},
+		["风"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 10,
+			bEnable = true,
+		},
+		["击水"] = {
+			bBorderEnable = true,
+			nFont = 256,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+	},
+	__dataKey = "BUFF_CUSTOM_DATA",
+}

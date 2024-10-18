@@ -1,48 +1,51 @@
 return {
 	tBuff = {
-		[51359] = {
-			nClass = "傍花",
+		[27419] = {
+			nClass = "狂怒",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[28508] = {
-			nClass = "",
+		[14630] = {
+			nClass = "月影",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[51466] = {
-			nClass = "真暗尘",
+		[14631] = {
+			nClass = "月影",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[50379] = {
-			nClass = "沉默",
+		[12742] = {
+			nClass = "飞机",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[51392] = {
-			nClass = "真鹊",
+		[12651] = {
+			nClass = "伪装",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[8864] = {
-			nClass = "千蝶",
+		[12720] = {
+			nClass = "动物",
 			tLevel = {
+				true,
+				true,
+				true,
 				true,
 				true,
 				true,
@@ -51,65 +54,57 @@ return {
 			},
 			nPower = 10,
 		},
-		[51348] = {
-			nClass = "眩晕",
+		[12724] = {
+			nClass = "吃毒",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[2847] = {
-			nClass = "",
+		[12758] = {
+			nClass = "准备",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[51394] = {
-			nClass = "50盾",
+		[13074] = {
+			nClass = "战意",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[51347] = {
-			nClass = "击倒",
+		[20602] = {
+			nClass = "高空",
+			tLevel = {
+				true,
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12788] = {
+			nClass = "箱子",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[51467] = {
-			nClass = "真浮光",
-			tLevel = {
-				false,
-				true,
-				[0] = false,
-			},
-			nPower = 10,
-		},
-		[51328] = {
-			nClass = "百足",
+		[14623] = {
+			nClass = "月影",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[51396] = {
-			nClass = "女娲",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[51849] = {
-			nClass = "真笑",
+		[14502] = {
+			nClass = "烟",
 			tLevel = {
 				true,
 				[0] = true,
@@ -118,58 +113,76 @@ return {
 		},
 	},
 	tClass = {
-		["真暗尘"] = {
+		["月影"] = {
 			bBorderEnable = true,
-			nFont = 205,
+			nFont = 245,
 			bFontEnable = true,
 			nBorder = 45,
 			bEnable = true,
 		},
-		["真鹊"] = {
+		["飞机"] = {
 			bBorderEnable = true,
-			nBorder = 45,
-			bFontEnable = true,
-			bEnable = true,
-		},
-		["50盾"] = {
-			bBorderEnable = true,
-			nFont = 205,
+			nFont = 187,
 			bFontEnable = true,
 			nBorder = 45,
 			bEnable = true,
 		},
-		["女娲"] = {
+		["战意"] = {
 			bBorderEnable = true,
-			nFont = 17,
+			nFont = 186,
 			bFontEnable = true,
-			nBorder = 45,
+			nBorder = 13,
 			bEnable = true,
 		},
-		["真浮光"] = {
-			bBorderEnable = true,
-			nBorder = 45,
-			bEnable = true,
-		},
-		["真笑"] = {
-			bBorderEnable = true,
-			nFont = 205,
-			bFontEnable = true,
-			nBorder = 45,
-			bEnable = true,
-		},
-		["傍花"] = {
+		["箱子"] = {
 			bBorderEnable = true,
 			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["狂怒"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["准备"] = {
+			bBorderEnable = true,
+			nFont = 159,
+			bFontEnable = false,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["伪装"] = {
+			bBorderEnable = true,
+			nBorder = 45,
+			bFontEnable = true,
+			bEnable = true,
+		},
+		["动物"] = {
+			bBorderEnable = true,
+			nFont = 245,
 			bFontEnable = true,
 			nBorder = 7,
 			bEnable = true,
 		},
-		["千蝶"] = {
+		["高空"] = {
 			bBorderEnable = true,
-			nBorder = 45,
+			nFont = 159,
+			bFontEnable = true,
+			nBorder = 12,
 			bEnable = true,
 		},
-		["百足"] = {
+		["烟"] = {
+			bBorderEnable = true,
+			nFont = 2,
+			bFontEnable = true,
+			nBorder = 1,
+			bEnable = true,
+		},
+		["吃毒"] = {
 			bBorderEnable = true,
 			nBorder = 1,
 			bFontEnable = true,

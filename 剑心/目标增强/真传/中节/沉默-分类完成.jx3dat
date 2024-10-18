@@ -1,60 +1,66 @@
 return {
 	tBuff = {
-		[8458] = {
-			nClass = "Ãâ·â",
-			tLevel = {
-				false,
-				false,
-				true,
-				[0] = false,
-			},
-			nPower = 10,
-		},
-		[10618] = {
-			nClass = "Ãâ·â",
-			tLevel = {
-				true,
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[9999] = {
-			nClass = "Ãâ·â",
-			tLevel = {
-				false,
-				true,
-				[0] = false,
-			},
-			nPower = 10,
-		},
-		[6350] = {
-			nClass = "Ãâ·â",
+		[28529] = {
+			nClass = "³ÁÄ¬",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[1186] = {
-			nClass = "Ãâ·â",
+		[27038] = {
+			nClass = "³ÁÄ¬",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[18065] = {
-			nClass = "Ãâ·â",
+		[20281] = {
+			nClass = "³ÁÄ¬",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[6414] = {
-			nClass = "Ãâ·â",
+		[51399] = {
+			nClass = "³ÁÄ¬",
 			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[50379] = {
+			nClass = "³ÁÄ¬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20277] = {
+			nClass = "³ÁÄ¬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[4053] = {
+			nClass = "³ÁÄ¬",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[12321] = {
+			nClass = "³ÁÄ¬",
+			tLevel = {
+				true,
+				true,
 				true,
 				[0] = true,
 			},
@@ -62,11 +68,11 @@ return {
 		},
 	},
 	tClass = {
-		["Ãâ·â"] = {
+		["³ÁÄ¬"] = {
 			bBorderEnable = true,
-			nBorder = 45,
+			nBorder = 1,
 			bFontEnable = true,
-			nFont = 23,
+			nFont = 235,
 			bEnable = true,
 		},
 	},

@@ -1,104 +1,116 @@
 return {
 	tBuff = {
-		[26856] = {
-			nClass = "贯穿",
+		[22174] = {
+			nClass = "惊鸿",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27400] = {
-			nClass = "反隐",
+		[20191] = {
+			nClass = "蝶",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[26858] = {
-			nClass = "解控",
+		[51356] = {
+			nClass = "无相",
 			tLevel = {
 				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[26952] = {
-			nClass = "小马",
-			tLevel = {
+				true,
+				true,
 				true,
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27123] = {
-			nClass = "跑速",
+		[20239] = {
+			nClass = "斩",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27544] = {
-			nClass = "小马",
+		[20162] = {
+			nClass = "云",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27126] = {
-			nClass = "4豆变",
+		[51392] = {
+			nClass = "鹊",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[26927] = {
-			nClass = "标记",
+		[20259] = {
+			nClass = "散",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27408] = {
-			nClass = " |星",
+		[20230] = {
+			nClass = "盾立",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27099] = {
-			nClass = "射箭",
+		[20293] = {
+			nClass = "十方",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27115] = {
-			nClass = "重创",
+		[51467] = {
+			nClass = "隐",
+			tLevel = {
+				false,
+				true,
+				[0] = false,
+			},
+			nPower = 10,
+		},
+		[51468] = {
+			nClass = "虎",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27038] = {
-			nClass = "恐惧",
+		[20358] = {
+			nClass = "",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27116] = {
-			nClass = "祝灵",
+		[51325] = {
+			nClass = "隐",
+			tLevel = {
+				true,
+				[0] = true,
+			},
+			nPower = 10,
+		},
+		[20359] = {
+			nClass = "无敌",
 			tLevel = {
 				true,
 				[0] = true,
@@ -114,32 +126,16 @@ return {
 			},
 			nPower = 10,
 		},
-		[27087] = {
-			nClass = "阻疗",
+		[20355] = {
+			nClass = "车",
 			tLevel = {
 				true,
 				[0] = true,
 			},
 			nPower = 10,
 		},
-		[27409] = {
-			nClass = "烨|",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[27459] = {
-			nClass = "合神",
-			tLevel = {
-				true,
-				[0] = true,
-			},
-			nPower = 10,
-		},
-		[26944] = {
-			nClass = "合神",
+		[51466] = {
+			nClass = "隐",
 			tLevel = {
 				true,
 				[0] = true,
@@ -148,122 +144,102 @@ return {
 		},
 	},
 	tClass = {
-		["射箭"] = {
+		["云"] = {
 			bBorderEnable = true,
-			nFont = 159,
-			bFontEnable = true,
-			nBorder = 1,
-			bEnable = true,
-		},
-		["贯穿"] = {
-			bBorderEnable = true,
-			nFont = 159,
-			bFontEnable = false,
-			nBorder = 1,
-			bEnable = true,
-		},
-		["恐惧"] = {
-			bBorderEnable = true,
-			nBorder = 61,
-			bFontEnable = true,
-			nFont = 199,
-			bEnable = true,
-		},
-		["解控"] = {
-			bBorderEnable = true,
-			nBorder = 10,
-			bFontEnable = true,
 			nFont = 186,
+			bFontEnable = true,
+			nBorder = 45,
 			bEnable = true,
 		},
-		["变身"] = {
+		["鹊"] = {
 			bBorderEnable = true,
-			nBorder = 45,
+			nFont = 186,
 			bFontEnable = true,
-			nFont = 256,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["虎"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 61,
+			bEnable = true,
+		},
+		["惊鸿"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["斩"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["车"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["盾立"] = {
+			bBorderEnable = true,
+			nFont = 205,
+			bFontEnable = true,
+			nBorder = 61,
+			bEnable = true,
+		},
+		["十方"] = {
+			bBorderEnable = true,
+			nFont = 40,
+			bFontEnable = true,
+			nBorder = 45,
+			bEnable = true,
+		},
+		["蝶"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
+			bEnable = true,
+		},
+		["无相"] = {
+			bBorderEnable = true,
+			nFont = 186,
+			bFontEnable = true,
+			nBorder = 13,
 			bEnable = true,
 		},
 		["应天"] = {
 			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
 			nBorder = 45,
-			bFontEnable = false,
 			bEnable = true,
 		},
-		["烨|"] = {
+		["隐"] = {
 			bBorderEnable = true,
-			nFont = 205,
+			nFont = 40,
 			bFontEnable = true,
-			nBorder = 12,
-			bEnable = true,
-		},
-		["小马"] = {
-			bBorderEnable = true,
 			nBorder = 45,
-			bFontEnable = true,
-			nFont = 205,
 			bEnable = true,
 		},
-		["合神"] = {
+		["散"] = {
 			bBorderEnable = true,
+			nFont = 40,
+			bFontEnable = true,
+			nBorder = 9,
+			bEnable = true,
+		},
+		["无敌"] = {
+			bBorderEnable = true,
+			nFont = 187,
+			bFontEnable = true,
 			nBorder = 45,
-			bFontEnable = true,
-			nFont = 256,
-			bEnable = true,
-		},
-		["反隐"] = {
-			bBorderEnable = true,
-			nFont = 235,
-			bFontEnable = true,
-			nBorder = 1,
-			bEnable = true,
-		},
-		[" |星"] = {
-			bBorderEnable = true,
-			nFont = 205,
-			bFontEnable = true,
-			nBorder = 12,
-			bEnable = true,
-		},
-		["阻疗"] = {
-			bBorderEnable = true,
-			nFont = 159,
-			bFontEnable = true,
-			nBorder = 14,
-			bEnable = true,
-		},
-		["祝灵"] = {
-			bBorderEnable = true,
-			nFont = 159,
-			bFontEnable = true,
-			nBorder = 1,
-			bEnable = true,
-		},
-		["跑速"] = {
-			bBorderEnable = true,
-			nBorder = 11,
-			bFontEnable = true,
-			nFont = 256,
-			bEnable = true,
-		},
-		["重创"] = {
-			bBorderEnable = true,
-			nFont = 17,
-			bFontEnable = true,
-			nBorder = 14,
-			bEnable = true,
-		},
-		["4豆变"] = {
-			bBorderEnable = true,
-			nBorder = 13,
-			bFontEnable = true,
-			nFont = 186,
-			bEnable = true,
-		},
-		["标记"] = {
-			bBorderEnable = true,
-			nFont = 256,
-			bFontEnable = true,
-			nBorder = 11,
 			bEnable = true,
 		},
 	},

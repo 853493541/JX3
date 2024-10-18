@@ -1,5 +1,0 @@
-return {
-	tBuff = {},
-	tClass = {},
-	__dataKey = "BUFF_CUSTOM_DATA",
-}

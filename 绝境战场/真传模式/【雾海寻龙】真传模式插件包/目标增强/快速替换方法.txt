@@ -1,0 +1,15 @@
+角色不处于登陆状态
+
+打开路径：C:\SeasunGame\Game\JX3\bin\zhcn_hd\interface\JX#DATA\buffdata
+
+进去之后你会见到一个叫做BuffData.jx3dat
+
+这个就是你当前在用的目标增强数据
+
+将他的名字修改成别的BuffData.jx3dat
+
+比如BuffData-backup.jx3dat
+
+然后讲这个文件夹下的BuffData.jx3dat复制buffdata文件夹
+
+登陆角色
